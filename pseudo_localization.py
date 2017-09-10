@@ -24,6 +24,12 @@ import io
 ROOT_DIR = '/users/jason/desktop/projects/kkday-ios-member/Solution/kkday-ios-member/kkday-ios-member'
 BASE_DIR = 'Base.lproj'
 EN_DIR = 'en.lproj'
+JP_DIR = 'ja.lproj'
+KR_DIR = 'ko.lproj'
+THAI_DIR = 'th.lproj'
+TW_DIR = 'zh-Hant-TW.lproj'
+HK_DIR = 'zh-Hant-HK.lproj'
+CN_DIR = 'zh-Hans.lproj'
 TARGET_FILE_EXT = '.strings'
 
 MODIFIER_PREFIX = '!!@@---'
