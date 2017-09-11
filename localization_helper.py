@@ -5,6 +5,7 @@ import httplib2
 import os
 import re
 import io
+import glob
 import string
 import google_spreadsheet as sheet_api
 import pseudo_localization as pseudo
@@ -125,7 +126,7 @@ class SpreadSheetManager(object):
             entry.key = common_key
             self.lookup_table[common_key] = entry
             for lang in self.languages:
-                entry.values[lang.key] = row[lang.spreadsheet_index]
+                entry.values[lang.key] = row[lang.spreadsheet_index].strip('\n')
     
     def print_spreadsheet(self):
         print('---- localization info in spreadsheet ----')
@@ -162,6 +163,72 @@ class LocalizationStringsManager(object):
                             entry.key = key
                             self.lookup_table[key] = entry
                         entry.values[lang.key] = val
+    
+    def find_duplicate_in_localization_strings(self, lang):
+        dir_path = os.path.join(pseudo.ROOT_DIR, lang.app_dir)
+        strings_file_path = os.path.join(dir_path, 'Localizable.strings')
+        # open and scan the file
+        p = re.compile(r'.*"(.*?[^\\])"[ ]*=[ ]*"(.*?[^\\])(".*)')
+        with io.open(strings_file_path, encoding='utf8') as reader:
+            bookkeeper = dict()
+            line_number = 0
+            for line in reader:
+                matched = p.match(line)
+                if matched:
+                    key = matched.group(1)
+                    val = matched.group(2)
+                    record = bookkeeper.get(key)
+                    if not record:
+                        record = []
+                        bookkeeper[key] = record
+                    record.append(line_number)
+                line_number += 1
+        print('----')
+                    
+
+
+    
+    def update_strings_files(self, spreadsheet_manager):
+        for lang in self.languages:
+            dir_path = os.path.join(pseudo.ROOT_DIR, lang.app_dir)
+            strings_file_path = os.path.join(dir_path, 'Localizable.strings')
+            file_to_write = strings_file_path + '.tmp'
+            # remove tmp file
+            if os.path.exists(file_to_write):
+                os.remove(file_to_write)
+            # open and scan the file
+            p = re.compile(r'.*"(.*?[^\\])"[ ]*=[ ]*"(.*?[^\\])(".*)')
+            with io.open(strings_file_path, encoding='utf8') as reader:
+                pattern = r'(.*=[ ]*")(.*?[^\\])(".*)'
+                with io.open(file_to_write, mode='w', encoding='utf8') as writer:
+                    for line in reader:
+                        matched = p.match(line)
+                        if matched:
+                            key = matched.group(1)
+                            val = matched.group(2)
+                            # check value in spreadsheet manager
+                            spreadsheet_entry = spreadsheet_manager.lookup_table.get(key)
+                            spreadsheet_val = spreadsheet_entry.values.get(lang.key) if spreadsheet_entry else None
+                            # process line change
+                            def adjust_line(matchobj):
+                                translation_value = spreadsheet_val or matchobj.group(2)
+                                # append comment to end if needed
+                                adjusted_line = ''.join([matchobj.group(1),
+                                                         translation_value,
+                                                         matchobj.group(3)])
+                                if spreadsheet_val is None and not adjusted_line.endswith(u' //no match'):
+                                    adjusted_line += ' //no match'
+                                elif spreadsheet_val and adjusted_line.endswith(u' //no match'):
+                                    adjusted_line = adjusted_line.replace(u' //no match', '')
+                                return adjusted_line
+                            modified = re.sub(pattern, adjust_line, line)
+                            writer.write(modified)
+                        else:
+                            # doesn't contain localization entry, just write it as it is
+                            writer.write(line)
+            # replace original file with tmp file
+            os.remove(strings_file_path)
+            os.rename(file_to_write, strings_file_path)
     
     def print_localization_strings(self):
         print('---- localization info in app localization strings ----')
@@ -212,16 +279,20 @@ def compare_localization_strings_with_spreadsheet():
     # read localization strings
     localization_strings_manager = LocalizationStringsManager(supporting_langs)
     localization_strings_manager.scan_strings_files()
+    # make change
+    print('---- make change ----')
+    localization_strings_manager.update_strings_files(spreadsheet_manager)
+    print('---- done make change ----')
     # compare
     print('---- compare localization strings with spreadsheet strings ----')
-    stats_missing_in_spreadsheet = 0
-    stats_completely_matched = 0
-    stats_partial_matched = 0
+    stats_missing_in_spreadsheet = []
+    stats_completely_matched = []
+    stats_partial_matched = []
     for key, entry in localization_strings_manager.lookup_table.iteritems():
         print(u'-- key: {0}'.format(key))
         spreadsheet_entry = spreadsheet_manager.lookup_table.get(key)
         if not spreadsheet_entry:
-            stats_missing_in_spreadsheet += 1
+            stats_missing_in_spreadsheet.append(key)
         match_counter = 0
         for lang in supporting_langs:
             strings_val = entry.values.get(lang.key, 'missing')
@@ -230,19 +301,104 @@ def compare_localization_strings_with_spreadsheet():
                 spreadsheet_val = spreadsheet_entry.values.get(lang.key, 'missing')
             if strings_val == spreadsheet_val:
                 print(u'[{0}][matched]: {1}'.format(lang.key, strings_val))
+                match_counter += 1
             else:
                 print(u'[{0}]: {1} --> {2}'.format(lang.key, strings_val, spreadsheet_val))
-                match_counter += 1
         if match_counter == len(supporting_langs):
-            stats_completely_matched += 1
-        else:
-            stats_partial_matched += 1
+            stats_completely_matched.append(key)
+        elif match_counter > 1:
+            stats_partial_matched.append(key)
     print('---- stats ----')
-    print('missing translation in spreadsheet: {0}'.format(stats_missing_in_spreadsheet))
-    print('complete matched: {0}'.format(stats_completely_matched))
-    print('partial match: {0}'.format(stats_partial_matched))
+    print('missing translation in spreadsheet: {0}'.format(len(stats_missing_in_spreadsheet)))
+    print('complete matched: {0}'.format(len(stats_completely_matched)))
+    print('partial match: {0}'.format(len(stats_partial_matched)))
+    print('---- missing translation ----')
+    for index, key in enumerate(stats_missing_in_spreadsheet):
+        print(u'{0}.---- {1} ----'.format(index+1, key))
+        # entry = localization_strings_manager.lookup_table.get(key)
+        # for lang in supporting_langs:
+        #     strings_val = entry.values.get(lang.key)
+        #     print(u'[{0}]: {1}'.format(lang.key, strings_val))
+    print('---- partial translation ----')
+    for index, key in enumerate(stats_partial_matched):
+        print(u'{0}.---- {1} ----'.format(index+1, key))
+        entry = localization_strings_manager.lookup_table.get(key)
+        spreadsheet_entry = spreadsheet_manager.lookup_table.get(key)
+        for lang in supporting_langs:
+            strings_val = entry.values.get(lang.key)
+            spreadsheet_val = spreadsheet_entry.values.get(lang.key)
+            if strings_val == spreadsheet_val:
+                print(u'[{0}][matched]'.format(lang.key))
+            else:
+                print(u'[{0}]: {1} --> {2}'.format(lang.key, strings_val, spreadsheet_val))
+
+def find_unused_localization_string():
+    # search all swift file for list of strings thats no match in 
+    # firstly read the base.strings to get list of localization key value pairs
+    print('---- load localization strings ----')
+    base_lang = LanguageKey.eng()
+    localization_strings_manager = LocalizationStringsManager([base_lang])
+    localization_strings_manager.scan_strings_files()
+    # next to search all the swift file
+    localization_key_usage = dict()
+    root_dir = '/Users/jason/Desktop/projects/kkday-ios-member/Solution/kkday-ios-member'
+    list_dir = ['kkday-ios-member','Library','ValueTypesFramework', 'WebAPI']
+    print('---- start scanning swift files ----')
+    for dir in list_dir:
+        for file in glob.glob('{0}/{1}/*.swift'.format(root_dir, dir)):
+            print(file)
+            with io.open(file, encoding='utf8') as f:
+                contents = f.read()
+                # print(u'content: {0}'.format(contents))
+                for key, val in localization_strings_manager.lookup_table.iteritems():
+                    search_term = u'"{0}".'.format(key)
+                    counter = localization_key_usage.get(key)
+                    if not counter:
+                        localization_key_usage[key] = 0
+                    # print(u'searching...{0}'.format(search_term))
+                    if search_term in contents:
+                        localization_key_usage[key] += 1
+    print('---- scan result ----')
+    print('key not used by code')
+    index = 1
+    for key, val in localization_key_usage.iteritems():
+        if val == 0:
+            print(u'{0}. {1}'.format(index, key))
+            index += 1
+
+def analyze_no_match_with_unused_localization_strings():
+    # read unusued
+    unusued_store = set()
+    pattern = re.compile(r'^\d+\.\s*(.*)')
+    with io.open('tmp/localization_not_use_by_app.txt', encoding='utf8') as reader:
+        for line in reader:
+            matched = pattern.match(line)
+            if matched:
+                key = matched.group(1)
+                unusued_store.add(key)
+    # read no match
+    no_match = set()
+    pattern = re.compile(r'^\d+\.---- (.*) ----')
+    with io.open('tmp/no_match_localization.txt', encoding='utf8') as reader:
+        for line in reader:
+            matched = pattern.match(line)
+            if matched:
+                key = matched.group(1)
+                no_match.add(key)
+    # compare
+    print('---- spreadsheet 找不到的翻譯(但程式碼也沒有用到, 可忽略) ----')
+    no_match_and_unused = no_match.intersection(unusued_store)
+    for index, key in enumerate(no_match_and_unused):
+        print(u'{0}. {1}'.format(index+1, key))
+    print('---- spreadsheet 找不到的翻譯(但程式碼有用到) ----')
+    no_match_but_used_localization = no_match.difference(unusued_store)
+    for index, key in enumerate(no_match_but_used_localization):
+        print(u'{0}. {1}'.format(index+1, key))
+    
 
 if __name__ == '__main__':
     # test_reading_speadsheet()
     # test_reading_localization_strings()
-    compare_localization_strings_with_spreadsheet()
+    # compare_localization_strings_with_spreadsheet()
+    # find_unused_localization_string()
+    analyze_no_match_with_unused_localization_strings()
