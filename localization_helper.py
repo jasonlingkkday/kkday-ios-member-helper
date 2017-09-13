@@ -169,8 +169,8 @@ class LocalizationStringsManager(object):
         strings_file_path = os.path.join(dir_path, 'Localizable.strings')
         # open and scan the file
         p = re.compile(r'.*"(.*?[^\\])"[ ]*=[ ]*"(.*?[^\\])(".*)')
+        bookkeeper = dict()
         with io.open(strings_file_path, encoding='utf8') as reader:
-            bookkeeper = dict()
             line_number = 0
             for line in reader:
                 matched = p.match(line)
@@ -181,13 +181,16 @@ class LocalizationStringsManager(object):
                     if not record:
                         record = []
                         bookkeeper[key] = record
-                    record.append(line_number)
+                    record.append(str(line_number))
                 line_number += 1
-        print('----')
+        print('---- list of entries with same key ----')
+        index = 1
+        print('No. key. line-number(Localizable.strings).')
+        for key, val in bookkeeper.iteritems():
+            if len(val) > 1:
+                print(u'{0}. {1}: {2}'.format(index, key, ','.join(val)))
+                index += 1
                     
-
-
-    
     def update_strings_files(self, spreadsheet_manager):
         for lang in self.languages:
             dir_path = os.path.join(pseudo.ROOT_DIR, lang.app_dir)
@@ -394,11 +397,16 @@ def analyze_no_match_with_unused_localization_strings():
     no_match_but_used_localization = no_match.difference(unusued_store)
     for index, key in enumerate(no_match_but_used_localization):
         print(u'{0}. {1}'.format(index+1, key))
-    
+
+def find_duplicate_entry():
+    base_lang = LanguageKey.eng()
+    localization_strings_manager = LocalizationStringsManager([base_lang])
+    localization_strings_manager.find_duplicate_in_localization_strings(base_lang)
 
 if __name__ == '__main__':
     # test_reading_speadsheet()
     # test_reading_localization_strings()
     # compare_localization_strings_with_spreadsheet()
     # find_unused_localization_string()
-    analyze_no_match_with_unused_localization_strings()
+    # analyze_no_match_with_unused_localization_strings()
+    find_duplicate_entry()
