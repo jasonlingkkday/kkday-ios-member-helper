@@ -89,5 +89,12 @@ def main():
             print('%s, %s' % (row[0], row[4]))
 
 
+def read_spreadsheet_values(service, spreadsheet_id, range):
+    result = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, 
+                                                 range=range).execute()
+    values = result.get('values', [])
+    return values
+
+
 if __name__ == '__main__':
     main()

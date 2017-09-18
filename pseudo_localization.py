@@ -21,7 +21,7 @@ import codecs
 import re
 import io
 
-ROOT_DIR = '/users/jason/desktop/projects/kkday-ios-member/Solution/kkday-ios-member/kkday-ios-member'
+ROOT_DIR = '/users/ryoukoken/desktop/projects/kkday-ios-member/Solution/kkday-ios-member/kkday-ios-member'
 BASE_DIR = 'Base.lproj'
 EN_DIR = 'en.lproj'
 JP_DIR = 'ja.lproj'
