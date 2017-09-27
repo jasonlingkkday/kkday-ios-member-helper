@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APPLICATION_NAME	../localization_helper/google_spreadsheet.py	/^APPLICATION_NAME = 'Google Sheets API Python Quickstart'$/;"	kind:variable	line:22
+Config	../localization_helper/__init__.py	/^from .config import Config$/;"	kind:namespace	line:1
+Config	../localization_helper/config.py	/^class Config(object):$/;"	kind:class	line:5
+ConfigTestSuite	../tests/test_config.py	/^class ConfigTestSuite(unittest.TestCase):$/;"	kind:class	line:9
+GoogleSpreadsheetTestSuite	../tests/test_google_spreadsheet.py	/^class GoogleSpreadsheetTestSuite(unittest.TestCase):$/;"	kind:class	line:8
+Storage	../localization_helper/google_spreadsheet.py	/^from oauth2client.file import Storage$/;"	kind:namespace	line:10
+__init__	../localization_helper/config.py	/^    def __init__(self, file_path):$/;"	kind:member	line:6
+__init__.py	../localization_helper/__init__.py	1;"	kind:file	line:1
+__init__.py	../tests/__init__.py	1;"	kind:file	line:1
+argparse	../localization_helper/google_spreadsheet.py	/^    import argparse$/;"	kind:namespace	line:13
+client	../localization_helper/google_spreadsheet.py	/^from oauth2client import client$/;"	kind:namespace	line:8
+config.py	../localization_helper/config.py	1;"	kind:file	line:1
+context.py	../tests/context.py	1;"	kind:file	line:1
+deal_with_auth_and_prepare_api_service	../localization_helper/google_spreadsheet.py	/^def deal_with_auth_and_prepare_api_service(client_secret_file, scopes):$/;"	kind:function	line:53
+discovery	../localization_helper/google_spreadsheet.py	/^from apiclient import discovery$/;"	kind:namespace	line:7
+flags	../localization_helper/google_spreadsheet.py	/^    flags = None$/;"	kind:variable	line:16
+flags	../localization_helper/google_spreadsheet.py	/^    flags = argparse.ArgumentParser(parents=[tools.argparser]).parse_args()$/;"	kind:variable	line:14
+get	../localization_helper/config.py	/^    def get(self, path):$/;"	kind:member	line:11
+get_credentials	../localization_helper/google_spreadsheet.py	/^def get_credentials(client_secret_file, scopes):$/;"	kind:function	line:25
+google_spreadsheet.py	../localization_helper/google_spreadsheet.py	1;"	kind:file	line:1
+httplib2	../localization_helper/google_spreadsheet.py	/^import httplib2$/;"	kind:namespace	line:4
+json	../localization_helper/config.py	/^import json$/;"	kind:namespace	line:3
+json	../tests/test_config.py	/^import json$/;"	kind:namespace	line:4
+localization_helper	../tests/context.py	/^import localization_helper$/;"	kind:namespace	line:7
+localization_helper	../tests/test_config.py	/^from .context import localization_helper$/;"	kind:namespace	line:6
+localization_helper	../tests/test_google_spreadsheet.py	/^from .context import localization_helper$/;"	kind:namespace	line:5
+localization_helper_test.py	../tests/localization_helper_test.py	1;"	kind:file	line:1
+main	../localization_helper/google_spreadsheet.py	/^def main():$/;"	kind:function	line:63
+ordered	../tests/context.py	/^def ordered(obj):$/;"	kind:function	line:10
+ordered	../tests/test_config.py	/^from .context import ordered$/;"	kind:namespace	line:7
+os	../localization_helper/google_spreadsheet.py	/^import os$/;"	kind:namespace	line:5
+os	../tests/context.py	/^import os$/;"	kind:namespace	line:4
+print_function	../localization_helper/google_spreadsheet.py	/^from __future__ import print_function$/;"	kind:namespace	line:3
+read_spreadsheet_values	../localization_helper/google_spreadsheet.py	/^def read_spreadsheet_values(service, spreadsheet_id, range):$/;"	kind:function	line:92
+remove_if_exist	../tests/context.py	/^def remove_if_exist(filename):$/;"	kind:function	line:19
+remove_if_exist	../tests/test_google_spreadsheet.py	/^from .context import remove_if_exist$/;"	kind:namespace	line:6
+setUp	../tests/test_config.py	/^    def setUp(self):$/;"	kind:member	line:11
+setUp	../tests/test_google_spreadsheet.py	/^    def setUp(self):$/;"	kind:member	line:10
+setup.py	../setup.py	1;"	kind:file	line:1
+spreadsheet_api	../localization_helper/__init__.py	/^import google_spreadsheet as spreadsheet_api$/;"	kind:namespace	line:2
+sys	../tests/context.py	/^import sys$/;"	kind:namespace	line:3
+tearDown	../tests/test_config.py	/^    def tearDown(self):$/;"	kind:member	line:14
+tearDown	../tests/test_google_spreadsheet.py	/^    def tearDown(self):$/;"	kind:member	line:16
+test_auth	../tests/test_google_spreadsheet.py	/^    def test_auth(self):$/;"	kind:member	line:20
+test_config.py	../tests/test_config.py	1;"	kind:file	line:1
+test_empty_config	../tests/test_config.py	/^    def test_empty_config(self):$/;"	kind:member	line:17
+test_get_valid_path_1	../tests/test_config.py	/^    def test_get_valid_path_1(self):$/;"	kind:member	line:28
+test_get_valid_path_2	../tests/test_config.py	/^    def test_get_valid_path_2(self):$/;"	kind:member	line:31
+test_get_valid_path_3	../tests/test_config.py	/^    def test_get_valid_path_3(self):$/;"	kind:member	line:34
+test_google_spreadsheet.py	../tests/test_google_spreadsheet.py	1;"	kind:file	line:1
+test_relative_config	../tests/test_config.py	/^    def test_relative_config(self):$/;"	kind:member	line:21
+tools	../localization_helper/google_spreadsheet.py	/^from oauth2client import tools$/;"	kind:namespace	line:9
+unittest	../tests/test_config.py	/^import unittest$/;"	kind:namespace	line:3
+unittest	../tests/test_google_spreadsheet.py	/^import unittest$/;"	kind:namespace	line:3

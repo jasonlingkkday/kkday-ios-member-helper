@@ -355,7 +355,15 @@ def update_app_localizable_strings_base_on_diff_json():
                                 # special condition
                                 if new_value == 'Luggage width is over 21"':
                                     new_value = 'Luggage width is over 21\"'
+                                # "最多可自訂3個行程，至少輸入1個自訂行程" ==> "最多可自訂%d個行程，至少輸入1個自訂行程"
                                 # in order to avoid overwrite key (when value and key happens to be the same)
+                                # 어디로 갈까요? => 어디로 갈까요
+                                # "抵達日期及時間" => "出發日期及時間" HK
+                                # "女性" = "female" => "หญิง"
+                                # % => ％
+                                #
+                                #
+                                #
                                 key_part, val_part = line_to_write.split("=")
                                 line_to_write = key_part+"="+val_part.replace(diff_value["app"], new_value)
                                 print(u"    {0} ==> {1}".format(line, line_to_write))

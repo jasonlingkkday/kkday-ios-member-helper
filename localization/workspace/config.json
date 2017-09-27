@@ -1,0 +1,46 @@
+{
+    "languages": ["EN", "TW", "HK", "CN", "JP", "KR", "THAI"],
+    "spreadsheet": {
+        "google": {
+            "scope": "https://www.googleapis.com/auth/spreadsheets.readonly",
+            "secret": "client_secret.json"
+        },
+        "spreadsheetId": "1LvdhIPABjW_zCMXyfXZiQbcYFPTYlmkb5K0KpXkRN9c",
+        "sheetName": "「Round2-all」new",
+        "startRow": 4,
+        "endRow": 800,
+        "startCol": "A",
+        "endCol": "R",
+        "languageCols": {
+            "EN": "L",
+            "TW": "K",
+            "HK": "M",
+            "CN": "N",
+            "JP": "O",
+            "KR": "P",
+            "THAI": "Q"
+        },
+        "keyLanguage": "TW"
+    },
+    "app": {
+        "projectDir": "/users/ryoukoken/desktop/projects/kkday-ios-member/Solution/kkday-ios-member/kkday-ios-member",
+        "localizableStringsDirs": {
+            "EN": "Base.lproj",
+            "TW": "zh-Hant-TW.lproj",
+            "HK": "zh-Hant-HK.lproj",
+            "CN": "zh-Hans.lproj",
+            "JP": "ja.lproj",
+            "KR": "ko.lproj",
+            "THAI": "th.lproj"
+        },
+        "storyboardLocalizationDirs": {
+            "EN": "en.lproj",
+            "TW": "zh-Hant-TW.lproj",
+            "HK": "zh-Hant-HK.lproj",
+            "CN": "zh-Hans.lproj",
+            "JP": "ja.lproj",
+            "KR": "ko.lproj",
+            "THAI": "th.lproj"
+        }
+    }
+}
