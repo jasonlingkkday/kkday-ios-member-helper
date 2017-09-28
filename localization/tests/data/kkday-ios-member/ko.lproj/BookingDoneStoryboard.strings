@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "訂單明細"; ObjectID = "4YV-6d-pgZ"; */
+"4YV-6d-pgZ.text" = "예약 상세내역";
+
+/* Class = "UILabel"; text = "場次"; ObjectID = "67i-av-ecq"; */
+"67i-av-ecq.text" = "이용 가능한 시간";
+
+/* Class = "UILabel"; text = "數量"; ObjectID = "7Ma-lK-8ge"; */
+"7Ma-lK-8ge.text" = "여행자";
+
+/* Class = "UILabel"; text = "付款成功"; ObjectID = "9uH-dG-3UI"; */
+"9uH-dG-3UI.text" = "결제 완료";
+
+/* Class = "UILabel"; text = "使用日"; ObjectID = "O7E-mP-Z5b"; */
+"O7E-mP-Z5b.text" = "예약 날짜";
+
+/* Class = "UINavigationItem"; title = "訂購完成"; ObjectID = "a9e-2p-uyi"; */
+"a9e-2p-uyi.title" = "예약 완료";

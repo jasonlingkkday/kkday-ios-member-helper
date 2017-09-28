@@ -1,0 +1,1430 @@
+[
+    {
+        "values": {
+            "EN": "Nothing yet :(",
+            "CN": "你没有任何订单喔",
+            "HK": "你沒有任何訂單",
+            "TW": "您沒有任何訂單喔",
+            "JP": "ご注文はありません",
+            "KR": "예약한 상품이 없습니다.",
+            "THAI": "ยังไม่มีอะไร"
+        },
+        "key": "dwp-u2-Fmb.text"
+    },
+    {
+        "values": {
+            "EN": "Upcoming Trips",
+            "CN": "即将出发",
+            "HK": "即將出發",
+            "TW": "即將出發",
+            "JP": "もうすぐ出発です",
+            "KR": "준비중인 여행",
+            "THAI": "การเดินทางที่กำลังจะมาถึง"
+        },
+        "key": "dzX-UU-cAA.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Expiry Date",
+            "CN": "到期日",
+            "HK": "到期日",
+            "TW": "到期日",
+            "JP": "有効期限",
+            "KR": "만료일",
+            "THAI": "วันหมดอายุของบัตร"
+        },
+        "key": "su5-rs-djC.text"
+    },
+    {
+        "values": {
+            "EN": "Guide Language: ",
+            "CN": "服务语言：",
+            "HK": "導覽語言：",
+            "TW": "導覽語言：",
+            "JP": "対応言語:",
+            "KR": "가이드 언어:",
+            "THAI": "ภาษาของไกด์ที่ให้บริการ:"
+        },
+        "key": "Xt0-Nk-nzd.text"
+    },
+    {
+        "values": {
+            "EN": "Applied Promo",
+            "CN": "折扣金额",
+            "HK": "折扣金額",
+            "TW": "折扣金額",
+            "JP": "割引額",
+            "KR": "할인 금액 ",
+            "THAI": "ส่วนลดจำนวน"
+        },
+        "key": "c8W-hS-Xy0.text"
+    },
+    {
+        "values": {
+            "EN": "Order Summary",
+            "CN": "订单明细",
+            "HK": "訂單明細",
+            "TW": "訂單明細",
+            "JP": "注文明細",
+            "KR": "주문내역 보기",
+            "THAI": "สรุปการสั่งซื้อ"
+        },
+        "key": "LyG-iv-kau.title"
+    },
+    {
+        "values": {
+            "EN": "The KKday Guarantee",
+            "CN": "给旅客的保证",
+            "HK": "給旅客的保證",
+            "TW": "給旅客的保證",
+            "JP": "お客様への保障",
+            "KR": "KKday만의 약속",
+            "THAI": "การรับประกันจาก KKday"
+        },
+        "key": "aNy-4L-jmm.text"
+    },
+    {
+        "values": {
+            "EN": "Countries",
+            "CN": "国家",
+            "HK": "國家",
+            "TW": "國家",
+            "JP": "ヵ国",
+            "KR": "나라",
+            "THAI": "ประเทศ"
+        },
+        "key": "afs-Ri-RGz.text"
+    },
+    {
+        "values": {
+            "EN": "Reviews",
+            "CN": "评论",
+            "HK": "評論",
+            "TW": "評論",
+            "JP": "評価",
+            "KR": "리뷰",
+            "THAI": "รีวิว"
+        },
+        "key": "NU1-mE-5EO.title"
+    },
+    {
+        "values": {
+            "EN": "Wish List",
+            "CN": "心愿清单",
+            "HK": "願望清單",
+            "TW": "心願清單",
+            "JP": "お気に入り",
+            "KR": "위시리스트",
+            "THAI": "รายการสินค้าที่ต้องการ"
+        },
+        "key": "0pT-Ys-7zA.title"
+    },
+    {
+        "values": {
+            "EN": "Email",
+            "CN": "Email",
+            "HK": "Email",
+            "TW": "電子信箱",
+            "JP": "メールアドレス",
+            "KR": "이메일",
+            "THAI": "อีเมล"
+        },
+        "key": "Qsm-GB-UgP.text"
+    },
+    {
+        "values": {
+            "EN": "ApplePay",
+            "CN": "ApplePay",
+            "HK": "ApplePay",
+            "TW": "ApplePay",
+            "JP": "ApplePay",
+            "KR": "ApplePay",
+            "THAI": "ApplePay"
+        },
+        "key": "NOi-MJ-BOy.text"
+    },
+    {
+        "values": {
+            "EN": "Click here to complete",
+            "CN": "填写行程资料",
+            "HK": "填寫行程資料",
+            "TW": "填寫行程資料",
+            "JP": "スケジュール情報を入力",
+            "KR": "일정 정보를 입력하세요.",
+            "THAI": "ระบุข้อมูลแผนการเดินทางของคุณ"
+        },
+        "key": "3rp-96-gjI.text"
+    },
+    {
+        "values": {
+            "EN": "Refund Amount",
+            "CN": "退款金额",
+            "HK": "退款金額",
+            "TW": "退款金額",
+            "JP": "払い戻し額",
+            "KR": "환불금액",
+            "THAI": "การคืนเงิน"
+        },
+        "key": "daj-dw-DkL.text"
+    },
+    {
+        "values": {
+            "EN": "Wish List",
+            "CN": "收藏",
+            "HK": "願望清單",
+            "TW": "心願",
+            "JP": "お気に入り",
+            "KR": "위시리스트",
+            "THAI": "สิ่งที่อยากได้"
+        },
+        "key": "OpB-n6-OyK.title"
+    },
+    {
+        "values": {
+            "EN": "Cancelled Trips",
+            "CN": "已取消",
+            "HK": "已取消",
+            "TW": "已取消",
+            "JP": "キャンセル済",
+            "KR": "취소된 여행",
+            "THAI": "ยกเลิกการเดินทาง"
+        },
+        "key": "TTh-8m-npj.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Travelers",
+            "CN": "数量",
+            "HK": "人數",
+            "TW": "數量",
+            "JP": "個数",
+            "KR": "여행자",
+            "THAI": "จำนวนผู้เดินทาง"
+        },
+        "key": "GEG-6M-5ex.text"
+    },
+    {
+        "values": {
+            "EN": "KKday Travelers",
+            "CN": "旅行者",
+            "HK": "旅行者",
+            "TW": "旅行者",
+            "JP": "旅行者",
+            "KR": "총 회원수",
+            "THAI": "นักท่องเที่ยวทั้งหมด"
+        },
+        "key": "ugc-fi-OFF.text"
+    },
+    {
+        "values": {
+            "EN": "Book Now",
+            "CN": "立即订购",
+            "HK": "立即訂購",
+            "TW": "立即訂購",
+            "JP": "予約する",
+            "KR": "예약하기",
+            "THAI": "ดำเนินการจอง"
+        },
+        "key": "i7x-O1-e2P.title"
+    },
+    {
+        "values": {
+            "EN": "Date",
+            "CN": "使用日",
+            "HK": "使用日",
+            "TW": "使用日",
+            "JP": "利用日",
+            "KR": "예약 날짜",
+            "THAI": "วันเดินทาง"
+        },
+        "key": "O7E-mP-Z5b.text"
+    },
+    {
+        "values": {
+            "EN": "View Voucher",
+            "CN": "查看凭证",
+            "HK": "查看憑證",
+            "TW": "查看憑證",
+            "JP": "バウチャーを確認",
+            "KR": "바우처 보기",
+            "THAI": "voucher ของคุณ"
+        },
+        "key": "IsA-2Q-gw1.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Email",
+            "CN": "Email",
+            "HK": "Email",
+            "TW": "電子信箱",
+            "JP": "メールアドレス",
+            "KR": "이메일",
+            "THAI": "อีเมล"
+        },
+        "key": "NB3-Oj-2SD.text"
+    },
+    {
+        "values": {
+            "EN": "Orders",
+            "CN": "订单",
+            "HK": "訂單",
+            "TW": "訂單",
+            "JP": "注文",
+            "KR": "Orders",
+            "THAI": "รายการสั่งซื้อ"
+        },
+        "key": "JmF-jY-OaP.title"
+    },
+    {
+        "values": {
+            "EN": "Cancellation Date: ",
+            "CN": "取消日期：",
+            "HK": "取消日期：",
+            "TW": "取消日期：",
+            "JP": "取消日：",
+            "KR": "취소 날짜：",
+            "THAI": "วันที่ทำการยกเลิก："
+        },
+        "key": "IdE-3C-bX0.text"
+    },
+    {
+        "values": {
+            "EN": "Applied Promo",
+            "CN": "折扣金额",
+            "HK": "折扣金額",
+            "TW": "折扣金額",
+            "JP": "割引額",
+            "KR": "Discount Amount",
+            "THAI": "ส่วนลดจำนวน"
+        },
+        "key": "6KQ-4S-RNS.text"
+    },
+    {
+        "values": {
+            "EN": "Experiences",
+            "CN": "旅游体验行程",
+            "HK": "旅行體驗",
+            "TW": "旅行體驗",
+            "JP": "特別な体験",
+            "KR": "여행 상품",
+            "THAI": "ประสบการณ์การท่องเที่ยว"
+        },
+        "key": "tI6-9j-Kdl.text"
+    },
+    {
+        "values": {
+            "EN": "My Account",
+            "CN": "会员中心",
+            "HK": "我的帳戶",
+            "TW": "會員中心",
+            "JP": "マイページ",
+            "KR": "마이페이지",
+            "THAI": "ข้อมูลส่วนตัว"
+        },
+        "key": "w4y-fa-Hwx.title"
+    },
+    {
+        "values": {
+            "EN": "Search destination, activity, or interest",
+            "CN": "搜寻国家、地区",
+            "HK": "搜尋國家、地區",
+            "TW": "搜尋國家、地區",
+            "JP": "国と地域を検索",
+            "KR": "국가 & 도시 검색",
+            "THAI": "ค้นหาประเทศหรือภูมิภาค"
+        },
+        "key": "cMD-su-PHN.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Order Cancelled",
+            "CN": "订单已取消",
+            "HK": "訂單已取消",
+            "TW": "訂單已取消",
+            "JP": "注文はキャンセルされました",
+            "KR": "주문 취소하기",
+            "THAI": "การสั่งซื้อที่ถูกยกเลิก"
+        },
+        "key": "Quh-XR-HK3.text"
+    },
+    {
+        "values": {
+            "EN": "Search",
+            "CN": "搜寻",
+            "HK": "搜尋",
+            "TW": "搜尋",
+            "JP": "検索",
+            "KR": "Search",
+            "THAI": "ค้นหา"
+        },
+        "key": "Ore-ar-4K2.title"
+    },
+    {
+        "values": {
+            "EN": "Choose Package",
+            "CN": "选择套餐",
+            "HK": "選擇方案",
+            "TW": "選擇套餐",
+            "JP": "セットを選んでください",
+            "KR": "옵션 선택",
+            "THAI": "เลือกแพ็คเกจ"
+        },
+        "key": "vg5-zx-2O8.title"
+    },
+    {
+        "values": {
+            "EN": "Refund Summary",
+            "CN": "退款明细",
+            "HK": "退款明細",
+            "TW": "退款明細",
+            "JP": "払い戻し明細",
+            "KR": "환불금액",
+            "THAI": "สรุปการคืนเงิน"
+        },
+        "key": "You-6L-LhL.title"
+    },
+    {
+        "values": {
+            "EN": "No Messages",
+            "CN": "目前无讯息",
+            "HK": "目前無訊息",
+            "TW": "目前无讯息",
+            "JP": "メッセージはありません",
+            "KR": "메세지가 없습니다.",
+            "THAI": "ไม่มีข้อความ"
+        },
+        "key": "b4v-lO-cQj.text"
+    },
+    {
+        "values": {
+            "EN": "Payment Summary",
+            "CN": "付款明細",
+            "HK": "付款明細",
+            "TW": "付款明細",
+            "JP": "支払い明細",
+            "KR": "결제내역",
+            "THAI": "ข้อมูลการชำระเงิน"
+        },
+        "key": "JtK-PP-fm9.title"
+    },
+    {
+        "values": {
+            "EN": "Password",
+            "CN": "密码",
+            "HK": "密碼",
+            "TW": "密碼",
+            "JP": "パスワード",
+            "KR": "비밀번호",
+            "THAI": "รหัสผ่าน"
+        },
+        "key": "saE-CF-EPS.text"
+    },
+    {
+        "values": {
+            "EN": "Name (as shown on Passport)",
+            "CN": "请输入名字",
+            "HK": "請輸入名字",
+            "TW": "請輸入名字",
+            "JP": "名前を入力",
+            "KR": "한글 이름을 입력하세요. (이름)",
+            "THAI": "กรุณาระบุชื่อ"
+        },
+        "key": "Dge-Og-zhg.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Nothing yet :(",
+            "CN": "心愿清单内目前没有行程",
+            "HK": "心願清單內目前沒有行程",
+            "TW": "心願清單內目前沒有行程",
+            "JP": "このリストにはアイテムはありません",
+            "KR": "위시리스트가 비어있습니다.",
+            "THAI": "ยังไม่มีอะไร"
+        },
+        "key": "nfc-eb-ZFG.text"
+    },
+    {
+        "values": {
+            "EN": "Contact Us",
+            "CN": "联络客服",
+            "HK": "聯絡客服",
+            "TW": "聯絡客服",
+            "JP": "お問い合わせ",
+            "KR": "문의하기",
+            "THAI": "ติดต่อเรา"
+        },
+        "key": "1Qh-BO-7mD.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "CVC/CVV",
+            "CN": "CVC/CVV",
+            "HK": "CVC/CVV",
+            "TW": "CVC/CVV",
+            "JP": "CVC/CVV",
+            "KR": "CVC/CVV",
+            "THAI": "CVC/CVV"
+        },
+        "key": "XkE-pA-A0u.text"
+    },
+    {
+        "values": {
+            "EN": "Total",
+            "CN": "总金额",
+            "HK": "總金額",
+            "TW": "總金額",
+            "JP": "総額",
+            "KR": "총 금액",
+            "THAI": "ราคารวมทั้งสิ้น"
+        },
+        "key": "sEv-vg-V8s.text"
+    },
+    {
+        "values": {
+            "EN": "Reselect",
+            "CN": "重选",
+            "HK": "重選",
+            "TW": "重選",
+            "JP": "再選択",
+            "KR": "재선택",
+            "THAI": "เลือกอีกครั้ง"
+        },
+        "key": "VL8-qR-Fsi.title"
+    },
+    {
+        "values": {
+            "EN": "Use Coupons",
+            "CN": "使用折扣券",
+            "HK": "使用優惠劵",
+            "TW": "使用折扣券",
+            "JP": "クポーンコードを利用",
+            "KR": "쿠폰 사용",
+            "THAI": "ใช้คูปองโค้ด"
+        },
+        "key": "kT5-Mi-SSu.text"
+    },
+    {
+        "values": {
+            "EN": "Applied Promo",
+            "CN": "折扣金额",
+            "HK": "折扣金額",
+            "TW": "折扣金額",
+            "JP": "割引額",
+            "KR": "할인 금액 ",
+            "THAI": "ส่วนลดจำนวน"
+        },
+        "key": "g12-5K-Dbz.text"
+    },
+    {
+        "values": {
+            "EN": "Total Payment",
+            "CN": "支付金额",
+            "HK": "結帳金額",
+            "TW": "結帳金額",
+            "JP": "支払い金額",
+            "KR": "총 금액",
+            "THAI": "รวมการชำระเงิน"
+        },
+        "key": "beE-AH-zNN.text"
+    },
+    {
+        "values": {
+            "EN": "Country Code",
+            "CN": "国码",
+            "HK": "國家代碼",
+            "TW": "電話國碼",
+            "JP": "国番号",
+            "KR": "국가 번호",
+            "THAI": "หมายเลขประจำตัวประชาชน"
+        },
+        "key": "jq8-NA-AST.text"
+    },
+    {
+        "values": {
+            "EN": "Order Complete",
+            "CN": "订购完成",
+            "HK": "訂購完成",
+            "TW": "訂購完成",
+            "JP": "ご注文完了",
+            "KR": "예약 완료",
+            "THAI": "สั่งซื้อเรียบร้อย"
+        },
+        "key": "a9e-2p-uyi.title"
+    },
+    {
+        "values": {
+            "EN": "Select a Date",
+            "CN": "选择日期",
+            "HK": "請選擇日期",
+            "TW": "選擇使用日",
+            "JP": "日付",
+            "KR": "날짜 선택",
+            "THAI": "เลือกวัน"
+        },
+        "key": "7Z3-MZ-0lv.title"
+    },
+    {
+        "values": {
+            "EN": "Duration:",
+            "CN": "所需时间：",
+            "HK": "所需時間：",
+            "TW": "所需時間：",
+            "JP": "所要時間:",
+            "KR": "시간:",
+            "THAI": "ระยะเวลา:"
+        },
+        "key": "7O0-YO-L0l.text"
+    },
+    {
+        "values": {
+            "EN": "Nationality",
+            "CN": "选择国籍",
+            "HK": "國籍",
+            "TW": "請選擇國籍",
+            "JP": "国籍を選んでください",
+            "KR": "국적",
+            "THAI": "สัญชาติ"
+        },
+        "key": "Bba-34-CGP.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Order Summary",
+            "CN": "订单明细",
+            "HK": "訂單明細",
+            "TW": "訂單明細",
+            "JP": "注文明細",
+            "KR": "예약 상세내역",
+            "THAI": "สรุปใบสั่งซื้อ"
+        },
+        "key": "4YV-6d-pgZ.text"
+    },
+    {
+        "values": {
+            "EN": "Email",
+            "CN": "请输入 Email",
+            "HK": "請輸入電郵地址",
+            "TW": "請輸入Email",
+            "JP": "メールアドレスを入力",
+            "KR": "이메일",
+            "THAI": "กรุณาระบุที่อยู่อีเมล"
+        },
+        "key": "kag-4g-cOy.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Reviews",
+            "CN": "条点评",
+            "HK": "則評論",
+            "TW": "則評論",
+            "JP": "件レビュー",
+            "KR": "후기",
+            "THAI": "รีวิว"
+        },
+        "key": "Vbv-1D-Sfl.text"
+    },
+    {
+        "values": {
+            "EN": "支付宝",
+            "CN": "支付宝",
+            "HK": "支付宝",
+            "TW": "支付宝",
+            "JP": "支付宝",
+            "KR": "支付宝",
+            "THAI": "支付宝"
+        },
+        "key": "diR-Zw-mHB.text"
+    },
+    {
+        "values": {
+            "EN": "Cancellation Date: ",
+            "CN": "取消日期：",
+            "HK": "取消日期：",
+            "TW": "取消日期：",
+            "JP": "キャンセル日時：",
+            "KR": "취소 날짜：",
+            "THAI": "วันที่ทำการยกเลิก："
+        },
+        "key": "LcR-cS-wtS.text"
+    },
+    {
+        "values": {
+            "EN": "Guide Language:",
+            "CN": "服务语言：",
+            "HK": "導覽語言：",
+            "TW": "導覽語言：",
+            "JP": "対応言語:",
+            "KR": "가이드 언어:",
+            "THAI": "ภาษาของไกด์ที่ให้บริการ:"
+        },
+        "key": "6Q1-6x-Ero.text"
+    },
+    {
+        "values": {
+            "EN": "Email",
+            "CN": "电子邮件信箱",
+            "HK": "Email",
+            "TW": "Email",
+            "JP": "メールアドレス",
+            "KR": "이메일",
+            "THAI": "อีเมล"
+        },
+        "key": "ZYC-IB-bT0.text"
+    },
+    {
+        "values": {
+            "EN": "Phone Number",
+            "CN": "电话号码",
+            "HK": "電話號碼",
+            "TW": "電話號碼",
+            "JP": "電話番号",
+            "KR": "전화번호",
+            "THAI": "หมายเลขโทรศัพท์"
+        },
+        "key": "YaS-7b-UL0.text"
+    },
+    {
+        "values": {
+            "EN": "Date",
+            "CN": "使用日",
+            "HK": "使用日",
+            "TW": "使用日",
+            "JP": "利用日",
+            "KR": "예약 날짜",
+            "THAI": "วันเดินทาง"
+        },
+        "key": "Xm2-Hf-CN6.text"
+    },
+    {
+        "values": {
+            "EN": "Last Name",
+            "CN": "请输入姓氏",
+            "HK": "請輸入姓氏",
+            "TW": "請輸入姓氏",
+            "JP": "姓を入力",
+            "KR": "한글 이름을 입력하세요. (성)",
+            "THAI": "กรุณาระบุนามสกุล"
+        },
+        "key": "f3j-WI-8cG.placeholder"
+    },
+    {
+        "values": {
+            "EN": "No results were found, let's try again :)",
+            "CN": "查无结果",
+            "HK": "查無結果",
+            "TW": "查無搜尋結果",
+            "JP": "一致する情報は見つかりませんでした。",
+            "KR": "검색 결과 없음",
+            "THAI": "ไม่พบจุดหมายที่ค้นหา ลองอีกครั้ง"
+        },
+        "key": "p7Y-6S-1vM.text"
+    },
+    {
+        "values": {
+            "EN": "Reviews",
+            "CN": "评论",
+            "HK": "評論",
+            "TW": "評論",
+            "JP": "評価",
+            "KR": "리뷰",
+            "THAI": "รีวิว"
+        },
+        "key": "AEK-YJ-p9W.text"
+    },
+    {
+        "values": {
+            "EN": "Currency Settings",
+            "CN": "货币设定",
+            "HK": "貨幣設定",
+            "TW": "幣別設定",
+            "JP": "通貨設定",
+            "KR": "화폐 단위 세팅",
+            "THAI": "ตั้งค่าสกุลเงิน"
+        },
+        "key": "Ujy-BB-eHa.title"
+    },
+    {
+        "values": {
+            "EN": "Contact Us",
+            "CN": "联络我们",
+            "HK": "聯絡我們",
+            "TW": "聯絡我們",
+            "JP": "お問い合わせ",
+            "KR": "고객센터",
+            "THAI": "ติดต่อเรา"
+        },
+        "key": "McA-ER-rvQ.title"
+    },
+    {
+        "values": {
+            "EN": "Oops, seems like there's a slight connection problem, let's try that again :)",
+            "CN": "网路状态异常，请重新检查连线或稍候再试",
+            "HK": "網路狀態異常，請重新檢查連線或稍候再試",
+            "TW": "網路狀態異常，請重新檢查連線或稍候再試",
+            "JP": "インターネットの通信設定をご確認ください。",
+            "KR": "네크워크 연결이 원활하지 않습니다. 다시 시도해주세요.",
+            "THAI": "มีปัญหาในการเชื่อมต่ออินเตอร์เนต กรุณาลองอีกครั้ง "
+        },
+        "key": "lRB-Ee-RuI.text"
+    },
+    {
+        "values": {
+            "EN": "Itinerary",
+            "CN": "行程表",
+            "HK": "行程表",
+            "TW": "行程表",
+            "JP": "スケジュール",
+            "KR": "일정표",
+            "THAI": "แผนการเดินทาง"
+        },
+        "key": "DDV-5T-Jgi.title"
+    },
+    {
+        "values": {
+            "EN": "Overview",
+            "CN": "行程介绍",
+            "HK": "行程介紹",
+            "TW": "行程介紹",
+            "JP": "スケジュール",
+            "KR": "투어소개",
+            "THAI": "ภาพรวม"
+        },
+        "key": "CHw-s0-rQR.text"
+    },
+    {
+        "values": {
+            "EN": "1 Million",
+            "CN": "100万",
+            "HK": "100萬",
+            "TW": "100萬",
+            "JP": "100万",
+            "KR": "1 백만",
+            "THAI": "1 ล้าน"
+        },
+        "key": "pjk-zp-jKw.text"
+    },
+    {
+        "values": {
+            "EN": "Duration: ",
+            "CN": "所需时间：",
+            "HK": "所需時間：",
+            "TW": "所需時間：",
+            "JP": "所要時間:",
+            "KR": "시간:",
+            "THAI": "ระยะเวลา:"
+        },
+        "key": "JIV-9K-8Ic.text"
+    },
+    {
+        "values": {
+            "EN": "My Account",
+            "CN": "我的",
+            "HK": "我的帳戶",
+            "TW": "我的",
+            "JP": "マイページ",
+            "KR": "마이페이지",
+            "THAI": "ข้อมูลส่วนตัว"
+        },
+        "key": "CAS-JD-gJZ.title"
+    },
+    {
+        "values": {
+            "EN": "Read More",
+            "CN": "阅读更多",
+            "HK": "閱讀更多",
+            "TW": "閱讀更多",
+            "JP": "もっと見る",
+            "KR": "액티비티 더보기",
+            "THAI": "ข้อมูลเพิ่มเติม"
+        },
+        "key": "nfE-bq-gQb.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Credit Card",
+            "CN": "信用卡",
+            "HK": "信用卡",
+            "TW": "信用卡",
+            "JP": "クレジットカード",
+            "KR": "신용 카드",
+            "THAI": "บัตรเครดิต"
+        },
+        "key": "uKP-Pb-Soc.text"
+    },
+    {
+        "values": {
+            "EN": "Booking date:",
+            "CN": "订购日期:",
+            "HK": "訂購日期：",
+            "TW": "訂購日期：",
+            "JP": "注文日:",
+            "KR": "주문일:",
+            "THAI": "วันที่ทำการจอง:"
+        },
+        "key": "6Vl-6L-71U.text"
+    },
+    {
+        "values": {
+            "EN": "Total Payment",
+            "CN": "支付金额",
+            "HK": "結帳金額",
+            "TW": "結帳金額",
+            "JP": "支払い金額",
+            "KR": "총 금액",
+            "THAI": "รวมการชำระเงิน"
+        },
+        "key": "sED-vf-RaC.text"
+    },
+    {
+        "values": {
+            "EN": "Please check credit card information",
+            "CN": "请输入信用卡资料",
+            "HK": "請輸入信用卡資料",
+            "TW": "輸入信用卡資料",
+            "JP": "クレジットカード情報を入力",
+            "KR": "신용카드 정보를 확인하세요.",
+            "THAI": "กรุณาตรวจสอบข้อมูลบัตรเครดิต"
+        },
+        "key": "nqz-lD-5nG.title"
+    },
+    {
+        "values": {
+            "EN": "Password",
+            "CN": "密码",
+            "HK": "密碼",
+            "TW": "密碼",
+            "JP": "パスワード",
+            "KR": "비밀번호",
+            "THAI": "รหัสผ่าน"
+        },
+        "key": "uaf-1q-2dZ.text"
+    },
+    {
+        "values": {
+            "EN": "6,000+",
+            "CN": "6,000+",
+            "HK": "6,000+",
+            "TW": "6,000+",
+            "JP": "6,000+",
+            "KR": "6,000+",
+            "THAI": "6,000+"
+        },
+        "key": "wP2-Ch-Z5a.text"
+    },
+    {
+        "values": {
+            "EN": "Our customer service will contact you shortly!",
+            "CN": "客服会尽快回覆",
+            "HK": "客服會盡快回覆",
+            "TW": "客服會盡快回覆",
+            "JP": "お問い合わせを確認次第、速やかにご返答させていただきます。",
+            "KR": "고객서비스 팀에서 곧 연락드리겠습니다.",
+            "THAI": "ฝ่ายบริการลูกค้าของเราจะติดต่อคุณเร็ว ๆ นี้!"
+        },
+        "key": "FTS-ap-xtd.text"
+    },
+    {
+        "values": {
+            "EN": "270+",
+            "CN": "270+",
+            "HK": "270+",
+            "TW": "270+",
+            "JP": "270+",
+            "KR": "270+",
+            "THAI": "270+"
+        },
+        "key": "f6c-lC-Vsv.text"
+    },
+    {
+        "values": {
+            "EN": "Time",
+            "CN": "场次",
+            "HK": "場次",
+            "TW": "場次",
+            "JP": "時間帯",
+            "KR": "이용 가능한 시간",
+            "THAI": "เวลา"
+        },
+        "key": "67i-av-ecq.text"
+    },
+    {
+        "values": {
+            "EN": "Select Time",
+            "CN": "选择场次",
+            "HK": "選擇時間",
+            "TW": "選擇場次",
+            "JP": "時間帯選択",
+            "KR": "시간 선택 ",
+            "THAI": "เลือกเวลา"
+        },
+        "key": "7JS-V5-7Q5.title"
+    },
+    {
+        "values": {
+            "EN": "About Us",
+            "CN": "关于 KKday",
+            "HK": "關於 KKday",
+            "TW": "關於 KKday",
+            "JP": "KKdayについて",
+            "KR": "About Us",
+            "THAI": "เกี่ยวกับเรา"
+        },
+        "key": "eQm-tN-3Gz.title"
+    },
+    {
+        "values": {
+            "EN": "Checkout",
+            "CN": "付款",
+            "HK": "付款",
+            "TW": "付款",
+            "JP": "お支払い",
+            "KR": "결제하기",
+            "THAI": "ชำระเงิน"
+        },
+        "key": "bMz-jA-JF1.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "No results were found, let's try again :)",
+            "CN": "查无结果",
+            "HK": "查無結果",
+            "TW": "查無搜尋結果",
+            "JP": "一致する情報は見つかりませんでした。",
+            "KR": "검색 결과 없음",
+            "THAI": "ไม่พบจุดหมายที่ค้นหา ลองอีกครั้ง"
+        },
+        "key": "8pg-gS-Krm.text"
+    },
+    {
+        "values": {
+            "EN": "Order Confirmation",
+            "CN": "订购确认",
+            "HK": "訂購確認",
+            "TW": "訂購確認",
+            "JP": "予約確認",
+            "KR": "예약 확정",
+            "THAI": "ยืนยันรายการ"
+        },
+        "key": "91V-yF-qee.title"
+    },
+    {
+        "values": {
+            "EN": "Country Code",
+            "CN": "选择电话国码",
+            "HK": "國家代碼",
+            "TW": "選擇電話國碼",
+            "JP": "国際電話の国番号を選んでください",
+            "KR": "국가 번호",
+            "THAI": "รหัสประเทศ"
+        },
+        "key": "oqH-Hf-nBX.title"
+    },
+    {
+        "values": {
+            "EN": "The password must contain at least 6 characters",
+            "CN": "密码需为6-100字",
+            "HK": "密碼需為6-100字",
+            "TW": "密碼需為6 - 20位，至少包含一個字母與數字",
+            "JP": "パスワードは6桁以上必要です",
+            "KR": "패스워드는 최소 6자리 이상으로 설정해주세요.",
+            "THAI": "รหัสผ่านต้องมีความยาวอย่างน้อย 6-100 ตัวอักษร"
+        },
+        "key": "1ze-CQ-14A.text"
+    },
+    {
+        "values": {
+            "EN": "Nationality",
+            "CN": "国籍",
+            "HK": "國籍",
+            "TW": "國籍",
+            "JP": "国籍",
+            "KR": "국적",
+            "THAI": "สัญชาติ"
+        },
+        "key": "ZPu-c0-E33.title"
+    },
+    {
+        "values": {
+            "EN": "Explore the World with KKday!",
+            "CN": "跟着 KKday 一起探索世界",
+            "HK": "跟著 KKday 一起探索世界！",
+            "TW": "跟著 KKday 一起探索世界",
+            "JP": "KKdayと一緒に世界中を旅しよう！",
+            "KR": "KKday와 함께 여행하세요!",
+            "THAI": "สำรวจโลกด้วย KKday"
+        },
+        "key": "rcI-GR-DGP.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Contact Support",
+            "CN": "联络客服",
+            "HK": "聯絡客服",
+            "TW": "聯絡客服",
+            "JP": "お問い合わせ",
+            "KR": "고객센터",
+            "THAI": "ติดต่อเรา"
+        },
+        "key": "gug-zS-ZLD.title"
+    },
+    {
+        "values": {
+            "EN": "Home",
+            "CN": "首页",
+            "HK": "主頁",
+            "TW": "首頁",
+            "JP": "ホーム",
+            "KR": "Home",
+            "THAI": "หน้าแรก"
+        },
+        "key": "FIP-1R-48P.title"
+    },
+    {
+        "values": {
+            "EN": "Card Number",
+            "CN": "卡号",
+            "HK": "卡號",
+            "TW": "卡號",
+            "JP": "カード番号",
+            "KR": "카드번호",
+            "THAI": "หมายเลขบัตร"
+        },
+        "key": "HEn-wb-itJ.text"
+    },
+    {
+        "values": {
+            "EN": "Cities",
+            "CN": "城市",
+            "HK": "城市",
+            "TW": "城市",
+            "JP": "都市",
+            "KR": "도시",
+            "THAI": "เมือง"
+        },
+        "key": "bvO-Cl-ghf.text"
+    },
+    {
+        "values": {
+            "EN": "Booking NO :",
+            "CN": "订单号码:",
+            "HK": "訂單編號：",
+            "TW": "訂單編號：",
+            "JP": "注文番号:",
+            "KR": "예약번호:",
+            "THAI": "หมายเลขการจอง"
+        },
+        "key": "tdZ-yQ-Acl.text"
+    },
+    {
+        "values": {
+            "EN": "Popular Experiences Nearby",
+            "CN": "更多推荐行程",
+            "HK": "更多推薦行程",
+            "TW": "更多推薦行程",
+            "JP": "おすすめのプラン",
+            "KR": "내 주변 추천상품",
+            "THAI": "ประสบการณ์ท่องเที่ยวอื่นๆที่น่าสนใจ"
+        },
+        "key": "9AJ-Dy-D6a.text"
+    },
+    {
+        "values": {
+            "EN": "My Orders",
+            "CN": "订单管理",
+            "HK": "訂單管理",
+            "TW": "訂單管理",
+            "JP": "予約管理",
+            "KR": "예약 관리",
+            "THAI": "รายการสั่งซื้อ"
+        },
+        "key": "PLg-0s-BsR.title"
+    },
+    {
+        "values": {
+            "EN": "Payment Success ",
+            "CN": "付款成功",
+            "HK": "付款成功",
+            "TW": "付款成功",
+            "JP": "お支払完了",
+            "KR": "결제 완료",
+            "THAI": "ชำระเงินเรียบร้อย"
+        },
+        "key": "9uH-dG-3UI.text"
+    },
+    {
+        "values": {
+            "EN": "Phone Number",
+            "CN": "输入电话号码",
+            "HK": "請輸入電話號碼",
+            "TW": "請輸入電話號碼",
+            "JP": "電話番号を入力",
+            "KR": "전화번호를 입력하세요.",
+            "THAI": "กรุณาระบุหมายเลขโทรศัพท์"
+        },
+        "key": "GNi-YN-aZF.placeholder"
+    },
+    {
+        "values": {
+            "EN": "PayPal",
+            "CN": "PayPal",
+            "HK": "PayPal",
+            "TW": "PayPal",
+            "JP": "PayPal",
+            "KR": "PayPal",
+            "THAI": "PayPal"
+        },
+        "key": "bAk-LS-vnE.text"
+    },
+    {
+        "values": {
+            "EN": "Please select country code",
+            "CN": "请选择国码",
+            "HK": "國家代碼",
+            "TW": "請選擇電話國碼",
+            "JP": "国番号を選択してください",
+            "KR": "국가 번호",
+            "THAI": "รหัสประเทศ"
+        },
+        "key": "CyM-bY-kQW.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Promo Code",
+            "CN": "输入折扣券代码",
+            "HK": "輸入優惠碼",
+            "TW": "輸入折扣券代碼",
+            "JP": "クポーンコード",
+            "KR": "쿠폰 사용",
+            "THAI": "โค้ดลดราคา"
+        },
+        "key": "emm-Hi-njn.placeholder"
+    },
+    {
+        "values": {
+            "EN": "Available Times",
+            "CN": "场次",
+            "HK": "場次",
+            "TW": "場次",
+            "JP": "時間帯",
+            "KR": "이용 가능한 시간",
+            "THAI": "เวลา"
+        },
+        "key": "34p-ka-uPC.text"
+    },
+    {
+        "values": {
+            "EN": "Cancellation Fee",
+            "CN": "取消费用",
+            "HK": "取消手續費",
+            "TW": "取消手續費",
+            "JP": "キャンセル料",
+            "KR": "취소요금",
+            "THAI": "ค่าธรรมเนียมการยกเลิก"
+        },
+        "key": "ClG-fj-bND.text"
+    },
+    {
+        "values": {
+            "EN": "Nationality",
+            "CN": "国籍",
+            "HK": "國籍",
+            "TW": "國籍",
+            "JP": "国籍",
+            "KR": "국적",
+            "THAI": "สัญชาติ"
+        },
+        "key": "thu-bq-nA6.text"
+    },
+    {
+        "values": {
+            "EN": "Incomplete",
+            "CN": "未填写",
+            "HK": "未填寫",
+            "TW": "未填寫",
+            "JP": "未記入があります",
+            "KR": "작성 미완료",
+            "THAI": "ไม่สำเร็จ"
+        },
+        "key": "Dfg-X3-54c.text"
+    },
+    {
+        "values": {
+            "EN": "Log In",
+            "CN": "登录",
+            "HK": "登入",
+            "TW": "登入",
+            "JP": "ログイン",
+            "KR": "로그인",
+            "THAI": "เข้าสู่ระบบ"
+        },
+        "key": "BHT-u9-Jbo.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Register",
+            "CN": "注册",
+            "HK": "註冊",
+            "TW": "註冊",
+            "JP": "新規登録",
+            "KR": "등록하기",
+            "THAI": "สมัครสมาชิก"
+        },
+        "key": "ZrA-G5-sWs.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Included: ",
+            "CN": "费用包含：",
+            "HK": "費用包括：",
+            "TW": "費用包含：",
+            "JP": "旅行代金に含まれるもの：",
+            "KR": "포함 사항：",
+            "THAI": "อัตราค่าบริการนี้รวม："
+        },
+        "key": "oxq-aI-lJs.text"
+    },
+    {
+        "values": {
+            "EN": "Last Name",
+            "CN": "姓氏",
+            "HK": "姓氏",
+            "TW": "姓氏",
+            "JP": "姓",
+            "KR": "성",
+            "THAI": "ชื่อ"
+        },
+        "key": "lgu-w0-DmM.text"
+    },
+    {
+        "values": {
+            "EN": "Travelers",
+            "CN": "数量",
+            "HK": "人數",
+            "TW": "數量",
+            "JP": "人数",
+            "KR": "여행자",
+            "THAI": "จำนวนผู้เดินทาง"
+        },
+        "key": "7Ma-lK-8ge.text"
+    },
+    {
+        "values": {
+            "EN": "Search for Countries and/or Regions",
+            "CN": "搜寻国家、地区",
+            "HK": "搜尋國家、地區",
+            "TW": "搜尋國家、地區",
+            "JP": "国と地域を検索",
+            "KR": "국가 & 도시 검색",
+            "THAI": "ค้นหาประเทศหรือภูมิภาค"
+        },
+        "key": "nyN-2i-xCs.placeholder"
+    },
+    {
+        "values": {
+            "EN": "First Name",
+            "CN": "名字",
+            "HK": "名字",
+            "TW": "名字",
+            "JP": "名前",
+            "KR": "이름",
+            "THAI": "ชื่อ"
+        },
+        "key": "thc-bQ-DMk.text"
+    },
+    {
+        "values": {
+            "EN": "View Voucher",
+            "CN": "查看凭证",
+            "HK": "查看憑證",
+            "TW": "查看憑證",
+            "JP": "バウチャーを確認",
+            "KR": "바우처 보기",
+            "THAI": "voucher ของคุณ"
+        },
+        "key": "n52-A6-WFJ.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Total",
+            "CN": "总金额",
+            "HK": "總金額",
+            "TW": "總金額",
+            "JP": "総額",
+            "KR": "총 금액",
+            "THAI": "ราคารวมทั้งสิ้น"
+        },
+        "key": "6D5-Ym-Dsm.text"
+    },
+    {
+        "values": {
+            "EN": "Contact Us",
+            "CN": "联络客服",
+            "HK": "聯絡客服",
+            "TW": "聯絡客服",
+            "JP": "お問い合わせ",
+            "KR": "문의하기",
+            "THAI": "ติดต่อเรา"
+        },
+        "key": "yyR-fZ-oYk.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "50+",
+            "CN": "50+",
+            "HK": "50+",
+            "TW": "50+",
+            "JP": "50+",
+            "KR": "50+",
+            "THAI": "50+"
+        },
+        "key": "NS7-EG-HRu.text"
+    },
+    {
+        "values": {
+            "EN": "Total",
+            "CN": "总金额",
+            "HK": "總金額",
+            "TW": "總金額",
+            "JP": "総額",
+            "KR": "총 금액",
+            "THAI": "ราคารวมทั้งสิ้น"
+        },
+        "key": "em6-dP-Kyb.text"
+    },
+    {
+        "values": {
+            "EN": "or",
+            "CN": "或者",
+            "HK": "或",
+            "TW": "或者",
+            "JP": "または",
+            "KR": "또는",
+            "THAI": "หรือ"
+        },
+        "key": "B5I-z4-dpP.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Your Trip History",
+            "CN": "已出发",
+            "HK": "已出發",
+            "TW": "已出發",
+            "JP": "既に出発しています",
+            "KR": "지난 여행",
+            "THAI": "ประวัติการท่องเที่ยวของคุณ"
+        },
+        "key": "dpP-wW-BJf.normalTitle"
+    },
+    {
+        "values": {
+            "EN": "Trusted Services",
+            "CN": "交易安全",
+            "HK": "交易安全",
+            "TW": "交易安全",
+            "JP": "安全決済",
+            "KR": "안전 거래",
+            "THAI": "เชื่อถือได้"
+        },
+        "key": "gRp-ma-rCu.text"
+    }
+]

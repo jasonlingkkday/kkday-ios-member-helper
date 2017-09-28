@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "聯絡客服"; ObjectID = "1Qh-BO-7mD"; */
+"1Qh-BO-7mD.normalTitle" = "ติดต่อเรา";
+
+/* Class = "UILabel"; text = "訂購日期："; ObjectID = "6Vl-6L-71U"; */
+"6Vl-6L-71U.text" = "วันที่ทำการจอง:";
+
+/* Class = "UILabel"; text = "取消日期："; ObjectID = "IdE-3C-bX0"; */
+"IdE-3C-bX0.text" = "วันที่ทำการยกเลิก：";
+
+/* Class = "UINavigationItem"; title = "訂單管理"; ObjectID = "PLg-0s-BsR"; */
+"PLg-0s-BsR.title" = "รายการสั่งซื้อ";
+
+/* Class = "UIButton"; normalTitle = "已取消"; ObjectID = "TTh-8m-npj"; */
+"TTh-8m-npj.normalTitle" = "ยกเลิกการเดินทาง";
+
+/* Class = "UIButton"; normalTitle = "已出發"; ObjectID = "dpP-wW-BJf"; */
+"dpP-wW-BJf.normalTitle" = "ประวัติการท่องเที่ยวของคุณ";
+
+/* Class = "UIButton"; normalTitle = "即將出發"; ObjectID = "dzX-UU-cAA"; */
+"dzX-UU-cAA.normalTitle" = "การเดินทางที่กำลังจะมาถึง";
+
+/* Class = "UIButton"; normalTitle = "查看憑證"; ObjectID = "n52-A6-WFJ"; */
+"n52-A6-WFJ.normalTitle" = "voucher ของคุณ";
+
+/* Class = "UILabel"; text = "訂單編號："; ObjectID = "tdZ-yQ-Acl"; */
+"tdZ-yQ-Acl.text" = "หมายเลขการจอง";

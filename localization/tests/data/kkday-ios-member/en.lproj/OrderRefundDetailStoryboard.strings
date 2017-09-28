@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "總金額"; ObjectID = "6D5-Ym-Dsm"; */
+"6D5-Ym-Dsm.text" = "Total";
+
+/* Class = "UILabel"; text = "取消手續費"; ObjectID = "ClG-fj-bND"; */
+"ClG-fj-bND.text" = "Cancellation Fee";
+
+/* Class = "UILabel"; text = "取消日期："; ObjectID = "LcR-cS-wtS"; */
+"LcR-cS-wtS.text" = "Cancellation Date: ";
+
+/* Class = "UINavigationItem"; title = "退款明細"; ObjectID = "You-6L-LhL"; */
+"You-6L-LhL.title" = "Refund Summary";
+
+/* Class = "UILabel"; text = "退款金額"; ObjectID = "daj-dw-DkL"; */
+"daj-dw-DkL.text" = "Refund Amount";
+
+/* Class = "UILabel"; text = "折扣金額"; ObjectID = "g12-5K-Dbz"; */
+"g12-5K-Dbz.text" = "Applied Promo";
+
+/* Class = "UILabel"; text = "結帳金額"; ObjectID = "sED-vf-RaC"; */
+"sED-vf-RaC.text" = "Total Payment";

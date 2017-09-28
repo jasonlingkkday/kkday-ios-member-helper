@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "折扣金額"; ObjectID = "6KQ-4S-RNS"; */
+"6KQ-4S-RNS.text" = "Applied Promo";
+
+/* Class = "UINavigationItem"; title = "付款明細"; ObjectID = "JtK-PP-fm9"; */
+"JtK-PP-fm9.title" = "Payment Summary";
+
+/* Class = "UILabel"; text = "結帳金額"; ObjectID = "beE-AH-zNN"; */
+"beE-AH-zNN.text" = "Total Payment";
+
+/* Class = "UILabel"; text = "總金額"; ObjectID = "em6-dP-Kyb"; */
+"em6-dP-Kyb.text" = "Total";

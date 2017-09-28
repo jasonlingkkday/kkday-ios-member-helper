@@ -1,0 +1,9 @@
+
+/* Class = "UISearchBar"; placeholder = "搜尋國家、地區"; ObjectID = "nyN-2i-xCs"; */
+"nyN-2i-xCs.placeholder" = "ค้นหาประเทศหรือภูมิภาค";
+
+/* Class = "UINavigationItem"; title = "電話國碼"; ObjectID = "oqH-Hf-nBX"; */
+"oqH-Hf-nBX.title" = "รหัสประเทศ";
+
+/* Class = "UILabel"; text = "查無搜尋結果"; ObjectID = "p7Y-6S-1vM"; */
+"p7Y-6S-1vM.text" = "ไม่พบจุดหมายที่ค้นหา ลองอีกครั้ง";

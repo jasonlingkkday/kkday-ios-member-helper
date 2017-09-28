@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "場次"; ObjectID = "34p-ka-uPC"; */
+"34p-ka-uPC.text" = "時間帯";
+
+/* Class = "UILabel"; text = "填寫行程資料"; ObjectID = "3rp-96-gjI"; */
+"3rp-96-gjI.text" = "スケジュール情報を入力";
+
+/* Class = "UINavigationItem"; title = "訂購確認"; ObjectID = "91V-yF-qee"; */
+"91V-yF-qee.title" = "予約確認";
+
+/* Class = "UITextField"; placeholder = "請選擇國籍"; ObjectID = "Bba-34-CGP"; */
+"Bba-34-CGP.placeholder" = "国籍を選んでください";
+
+/* Class = "UITextField"; placeholder = "請選擇電話國碼"; ObjectID = "CyM-bY-kQW"; */
+"CyM-bY-kQW.placeholder" = "国番号を選択してください";
+
+/* Class = "UILabel"; text = "未填寫"; ObjectID = "Dfg-X3-54c"; */
+"Dfg-X3-54c.text" = "未記入があります";
+
+/* Class = "UITextField"; placeholder = "請輸入名字"; ObjectID = "Dge-Og-zhg"; */
+"Dge-Og-zhg.placeholder" = "名前を入力";
+
+/* Class = "UILabel"; text = "數量"; ObjectID = "GEG-6M-5ex"; */
+"GEG-6M-5ex.text" = "個数";
+
+/* Class = "UITextField"; placeholder = "請輸入電話號碼"; ObjectID = "GNi-YN-aZF"; */
+"GNi-YN-aZF.placeholder" = "電話番号を入力";
+
+/* Class = "UILabel"; text = "ApplePay"; ObjectID = "NOi-MJ-BOy"; */
+"NOi-MJ-BOy.text" = "ApplePay";
+
+/* Class = "UILabel"; text = "使用日"; ObjectID = "Xm2-Hf-CN6"; */
+"Xm2-Hf-CN6.text" = "利用日";
+
+/* Class = "UILabel"; text = "電話號碼"; ObjectID = "YaS-7b-UL0"; */
+"YaS-7b-UL0.text" = "電話番号";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ZYC-IB-bT0"; */
+"ZYC-IB-bT0.text" = "メールアドレス";
+
+/* Class = "UILabel"; text = "PayPal"; ObjectID = "bAk-LS-vnE"; */
+"bAk-LS-vnE.text" = "PayPal";
+
+/* Class = "UIButton"; normalTitle = "付款"; ObjectID = "bMz-jA-JF1"; */
+"bMz-jA-JF1.normalTitle" = "お支払い";
+
+/* Class = "UILabel"; text = "折扣金額"; ObjectID = "c8W-hS-Xy0"; */
+"c8W-hS-Xy0.text" = "割引額";
+
+/* Class = "UILabel"; text = "支付宝"; ObjectID = "diR-Zw-mHB"; */
+"diR-Zw-mHB.text" = "支付宝";
+
+/* Class = "UITextField"; placeholder = "輸入折扣券代碼"; ObjectID = "emm-Hi-njn"; */
+"emm-Hi-njn.placeholder" = "クポーンコード";
+
+/* Class = "UITextField"; placeholder = "請輸入姓氏"; ObjectID = "f3j-WI-8cG"; */
+"f3j-WI-8cG.placeholder" = "姓を入力";
+
+/* Class = "UILabel"; text = "電話國碼"; ObjectID = "jq8-NA-AST"; */
+"jq8-NA-AST.text" = "国番号";
+
+/* Class = "UILabel"; text = "使用折扣券"; ObjectID = "kT5-Mi-SSu"; */
+"kT5-Mi-SSu.text" = "クポーンコードを利用";
+
+/* Class = "UITextField"; placeholder = "請輸入Email"; ObjectID = "kag-4g-cOy"; */
+"kag-4g-cOy.placeholder" = "メールアドレスを入力";
+
+/* Class = "UILabel"; text = "姓氏"; ObjectID = "lgu-w0-DmM"; */
+"lgu-w0-DmM.text" = "姓";
+
+/* Class = "UILabel"; text = "總金額"; ObjectID = "sEv-vg-V8s"; */
+"sEv-vg-V8s.text" = "総額";
+
+/* Class = "UILabel"; text = "名字"; ObjectID = "thc-bQ-DMk"; */
+"thc-bQ-DMk.text" = "名前";
+
+/* Class = "UILabel"; text = "國籍"; ObjectID = "thu-bq-nA6"; */
+"thu-bq-nA6.text" = "国籍";
+
+/* Class = "UILabel"; text = "信用卡"; ObjectID = "uKP-Pb-Soc"; */
+"uKP-Pb-Soc.text" = "クレジットカード";

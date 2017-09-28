@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "查看憑證"; ObjectID = "IsA-2Q-gw1"; */
+"IsA-2Q-gw1.normalTitle" = "View Voucher";
+
+/* Class = "UILabel"; text = "所需時間:"; ObjectID = "JIV-9K-8Ic"; */
+"JIV-9K-8Ic.text" = "Duration: ";
+
+/* Class = "UINavigationItem"; title = "訂單明細"; ObjectID = "LyG-iv-kau"; */
+"LyG-iv-kau.title" = "Order Summary";
+
+/* Class = "UILabel"; text = "訂單已取消"; ObjectID = "Quh-XR-HK3"; */
+"Quh-XR-HK3.text" = "Order Cancelled";
+
+/* Class = "UILabel"; text = "導覽語言:"; ObjectID = "Xt0-Nk-nzd"; */
+"Xt0-Nk-nzd.text" = "Guide Language: ";
+
+/* Class = "UIButton"; normalTitle = "聯絡客服"; ObjectID = "yyR-fZ-oYk"; */
+"yyR-fZ-oYk.normalTitle" = "Contact Us";

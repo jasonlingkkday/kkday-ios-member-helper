@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "聯絡客服"; ObjectID = "1Qh-BO-7mD"; */
+"1Qh-BO-7mD.normalTitle" = "聯絡客服";
+
+/* Class = "UILabel"; text = "訂購日期："; ObjectID = "6Vl-6L-71U"; */
+"6Vl-6L-71U.text" = "訂購日期：";
+
+/* Class = "UILabel"; text = "取消日期："; ObjectID = "IdE-3C-bX0"; */
+"IdE-3C-bX0.text" = "取消日期：";
+
+/* Class = "UINavigationItem"; title = "訂單管理"; ObjectID = "PLg-0s-BsR"; */
+"PLg-0s-BsR.title" = "訂單管理";
+
+/* Class = "UIButton"; normalTitle = "已取消"; ObjectID = "TTh-8m-npj"; */
+"TTh-8m-npj.normalTitle" = "已取消";
+
+/* Class = "UIButton"; normalTitle = "已出發"; ObjectID = "dpP-wW-BJf"; */
+"dpP-wW-BJf.normalTitle" = "已出發";
+
+/* Class = "UIButton"; normalTitle = "即將出發"; ObjectID = "dzX-UU-cAA"; */
+"dzX-UU-cAA.normalTitle" = "即將出發";
+
+/* Class = "UIButton"; normalTitle = "查看憑證"; ObjectID = "n52-A6-WFJ"; */
+"n52-A6-WFJ.normalTitle" = "查看憑證";
+
+/* Class = "UILabel"; text = "訂單編號："; ObjectID = "tdZ-yQ-Acl"; */
+"tdZ-yQ-Acl.text" = "訂單編號：";

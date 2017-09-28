@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "選擇場次"; ObjectID = "7JS-V5-7Q5"; */
+"7JS-V5-7Q5.title" = "選擇場次";
+
+/* Class = "UINavigationItem"; title = "選擇使用日"; ObjectID = "7Z3-MZ-0lv"; */
+"7Z3-MZ-0lv.title" = "選擇使用日";
+
+/* Class = "UIBarButtonItem"; title = "重選"; ObjectID = "VL8-qR-Fsi"; */
+"VL8-qR-Fsi.title" = "重選";
+
+/* Class = "UINavigationItem"; title = "立即訂購"; ObjectID = "i7x-O1-e2P"; */
+"i7x-O1-e2P.title" = "立即訂購";
+
+/* Class = "UINavigationItem"; title = "選擇套餐"; ObjectID = "vg5-zx-2O8"; */
+"vg5-zx-2O8.title" = "選擇套餐";

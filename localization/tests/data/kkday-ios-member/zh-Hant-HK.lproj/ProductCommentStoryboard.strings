@@ -1,0 +1,9 @@
+
+/* Class = "UINavigationItem"; title = "評論"; ObjectID = "NU1-mE-5EO"; */
+"NU1-mE-5EO.title" = "評論";
+
+/* Class = "UILabel"; text = "則評論"; ObjectID = "Vbv-1D-Sfl"; */
+"Vbv-1D-Sfl.text" = "則評論";
+
+/* Class = "UIButton"; normalTitle = "展開評論"; ObjectID = "nfE-bq-gQb"; */
+"nfE-bq-gQb.normalTitle" = "閱讀更多";

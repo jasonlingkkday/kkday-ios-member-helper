@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  kkday-ios-member
+
+  Created by Bobson on 2017/8/24.
+  Copyright © 2017年 KKday. All rights reserved.
+*/
+
+CFBundleDisplayName = "KKday";
+CFBundleName = "KKday";
+NSPhotoLibraryUsageDescription = "你可以存取你的照片";

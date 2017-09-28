@@ -1,0 +1,15 @@
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "CAS-JD-gJZ"; */
+"CAS-JD-gJZ.title" = "My Account";
+
+/* Class = "UITabBarItem"; title = "首頁"; ObjectID = "FIP-1R-48P"; */
+"FIP-1R-48P.title" = "Home";
+
+/* Class = "UITabBarItem"; title = "訂單"; ObjectID = "JmF-jY-OaP"; */
+"JmF-jY-OaP.title" = "Orders";
+
+/* Class = "UITabBarItem"; title = "心願"; ObjectID = "OpB-n6-OyK"; */
+"OpB-n6-OyK.title" = "Wish List";
+
+/* Class = "UITabBarItem"; title = "搜尋"; ObjectID = "Ore-ar-4K2"; */
+"Ore-ar-4K2.title" = "Search";

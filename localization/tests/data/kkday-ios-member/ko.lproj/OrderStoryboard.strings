@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "聯絡客服"; ObjectID = "1Qh-BO-7mD"; */
+"1Qh-BO-7mD.normalTitle" = "문의하기";
+
+/* Class = "UILabel"; text = "訂購日期："; ObjectID = "6Vl-6L-71U"; */
+"6Vl-6L-71U.text" = "주문일:";
+
+/* Class = "UILabel"; text = "取消日期："; ObjectID = "IdE-3C-bX0"; */
+"IdE-3C-bX0.text" = "취소 날짜：";
+
+/* Class = "UINavigationItem"; title = "訂單管理"; ObjectID = "PLg-0s-BsR"; */
+"PLg-0s-BsR.title" = "예약 관리";
+
+/* Class = "UIButton"; normalTitle = "已取消"; ObjectID = "TTh-8m-npj"; */
+"TTh-8m-npj.normalTitle" = "취소된 여행";
+
+/* Class = "UIButton"; normalTitle = "已出發"; ObjectID = "dpP-wW-BJf"; */
+"dpP-wW-BJf.normalTitle" = "지난 여행";
+
+/* Class = "UIButton"; normalTitle = "即將出發"; ObjectID = "dzX-UU-cAA"; */
+"dzX-UU-cAA.normalTitle" = "준비중인 여행";
+
+/* Class = "UIButton"; normalTitle = "查看憑證"; ObjectID = "n52-A6-WFJ"; */
+"n52-A6-WFJ.normalTitle" = "바우처 보기";
+
+/* Class = "UILabel"; text = "訂單編號："; ObjectID = "tdZ-yQ-Acl"; */
+"tdZ-yQ-Acl.text" = "예약번호:";

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "導覽語言:"; ObjectID = "6Q1-6x-Ero"; */
+"6Q1-6x-Ero.text" = "Guide Language:";
+
+/* Class = "UILabel"; text = "所需時間:"; ObjectID = "7O0-YO-L0l"; */
+"7O0-YO-L0l.text" = "Duration:";
+
+/* Class = "UILabel"; text = "更多推薦行程"; ObjectID = "9AJ-Dy-D6a"; */
+"9AJ-Dy-D6a.text" = "Popular Experiences Nearby";
+
+/* Class = "UILabel"; text = "評論"; ObjectID = "AEK-YJ-p9W"; */
+"AEK-YJ-p9W.text" = "Reviews";
+
+/* Class = "UILabel"; text = "行程介紹"; ObjectID = "CHw-s0-rQR"; */
+"CHw-s0-rQR.text" = "Overview";
+
+/* Class = "UILabel"; text = "交易安全"; ObjectID = "gRp-ma-rCu"; */
+"gRp-ma-rCu.text" = "Trusted Services";
+
+/* Class = "UILabel"; text = "給旅客的保證"; ObjectID = "aNy-4L-jmm"; */
+"aNy-4L-jmm.text" = "The KKday Guarantee";

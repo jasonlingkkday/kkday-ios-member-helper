@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "導覽語言:"; ObjectID = "6Q1-6x-Ero"; */
+"6Q1-6x-Ero.text" = "가이드 언어:";
+
+/* Class = "UILabel"; text = "所需時間:"; ObjectID = "7O0-YO-L0l"; */
+"7O0-YO-L0l.text" = "시간:";
+
+/* Class = "UILabel"; text = "更多推薦行程"; ObjectID = "9AJ-Dy-D6a"; */
+"9AJ-Dy-D6a.text" = "내 주변 추천상품";
+
+/* Class = "UILabel"; text = "評論"; ObjectID = "AEK-YJ-p9W"; */
+"AEK-YJ-p9W.text" = "리뷰";
+
+/* Class = "UILabel"; text = "行程介紹"; ObjectID = "CHw-s0-rQR"; */
+"CHw-s0-rQR.text" = "투어소개";
+
+/* Class = "UILabel"; text = "交易安全"; ObjectID = "gRp-ma-rCu"; */
+"gRp-ma-rCu.text" = "안전 거래";
+
+/* Class = "UILabel"; text = "給旅客的保證"; ObjectID = "aNy-4L-jmm"; */
+"aNy-4L-jmm.text" = "KKday만의 약속";

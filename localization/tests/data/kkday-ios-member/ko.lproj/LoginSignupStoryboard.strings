@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "密碼需為6 - 20位，至少包含一個字母與數字"; ObjectID = "1ze-CQ-14A"; */
+"1ze-CQ-14A.text" = "패스워드는 최소 6자리 이상으로 설정해주세요.";
+
+/* Class = "UIButton"; normalTitle = "或者"; ObjectID = "B5I-z4-dpP"; */
+"B5I-z4-dpP.normalTitle" = "또는";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "BHT-u9-Jbo"; */
+"BHT-u9-Jbo.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "電子信箱"; ObjectID = "NB3-Oj-2SD"; */
+"NB3-Oj-2SD.text" = "이메일";
+
+/* Class = "UILabel"; text = "電子信箱"; ObjectID = "Qsm-GB-UgP"; */
+"Qsm-GB-UgP.text" = "이메일";
+
+/* Class = "UIButton"; normalTitle = "註冊"; ObjectID = "ZrA-G5-sWs"; */
+"ZrA-G5-sWs.normalTitle" = "등록하기";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "saE-CF-EPS"; */
+"saE-CF-EPS.text" = "비밀번호";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "uaf-1q-2dZ"; */
+"uaf-1q-2dZ.text" = "비밀번호";

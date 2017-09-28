@@ -1,0 +1,36 @@
+
+/* Class = "UINavigationItem"; title = "聯絡我們"; ObjectID = "McA-ER-rvQ"; */
+"McA-ER-rvQ.title" = "联络我们";
+
+/* Class = "UINavigationItem"; title = "幣別設定"; ObjectID = "Ujy-BB-eHa"; */
+"Ujy-BB-eHa.title" = "货币设定";
+
+/* Class = "UINavigationItem"; title = "關於 KKday"; ObjectID = "eQm-tN-3Gz"; */
+"eQm-tN-3Gz.title" = "关于 KKday";
+
+/* Class = "UINavigationItem"; title = "會員中心"; ObjectID = "w4y-fa-Hwx"; */
+"w4y-fa-Hwx.title" = "会员中心";
+
+/* Class = "UILabel"; text = "12 Million"; ObjectID = "pjk-zp-jKw"; */
+"pjk-zp-jKw.text" = "100万";
+
+/* Class = "UILabel"; text = "270+"; ObjectID = "f6c-lC-Vsv"; */
+"f6c-lC-Vsv.text" = "270+";
+
+/* Class = "UILabel"; text = "6,000+"; ObjectID = "wP2-Ch-Z5a"; */
+"wP2-Ch-Z5a.text" = "6,000+";
+
+/* Class = "UILabel"; text = "50+"; ObjectID = "NS7-EG-HRu"; */
+"NS7-EG-HRu.text" = "50+";
+
+/* Class = "UILabel"; text = "Total Travelers"; ObjectID = "ugc-fi-OFF"; */
+"ugc-fi-OFF.text" = "旅行者";
+
+/* Class = "UILabel"; text = "Cities"; ObjectID = "bvO-Cl-ghf"; */
+"bvO-Cl-ghf.text" = "城市";
+
+/* Class = "UILabel"; text = "Total Experiences"; ObjectID = "tI6-9j-Kdl"; */
+"tI6-9j-Kdl.text" = "旅游体验行程";
+
+/* Class = "UILabel"; text = "Countries"; ObjectID = "afs-Ri-RGz"; */
+"afs-Ri-RGz.text" = "国家";

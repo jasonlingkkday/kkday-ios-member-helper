@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "聯絡客服"; ObjectID = "1Qh-BO-7mD"; */
+"1Qh-BO-7mD.normalTitle" = "Contact Us";
+
+/* Class = "UILabel"; text = "訂購日期："; ObjectID = "6Vl-6L-71U"; */
+"6Vl-6L-71U.text" = "Booking date:";
+
+/* Class = "UILabel"; text = "取消日期："; ObjectID = "IdE-3C-bX0"; */
+"IdE-3C-bX0.text" = "Cancellation Date: ";
+
+/* Class = "UINavigationItem"; title = "訂單管理"; ObjectID = "PLg-0s-BsR"; */
+"PLg-0s-BsR.title" = "My Orders";
+
+/* Class = "UIButton"; normalTitle = "已取消"; ObjectID = "TTh-8m-npj"; */
+"TTh-8m-npj.normalTitle" = "Cancelled Trips";
+
+/* Class = "UIButton"; normalTitle = "已出發"; ObjectID = "dpP-wW-BJf"; */
+"dpP-wW-BJf.normalTitle" = "Your Trip History";
+
+/* Class = "UIButton"; normalTitle = "即將出發"; ObjectID = "dzX-UU-cAA"; */
+"dzX-UU-cAA.normalTitle" = "Upcoming Trips";
+
+/* Class = "UIButton"; normalTitle = "查看憑證"; ObjectID = "n52-A6-WFJ"; */
+"n52-A6-WFJ.normalTitle" = "View Voucher";
+
+/* Class = "UILabel"; text = "訂單編號："; ObjectID = "tdZ-yQ-Acl"; */
+"tdZ-yQ-Acl.text" = "Booking NO :";

@@ -1,0 +1,9 @@
+
+/* Class = "UISearchBar"; placeholder = "搜尋國家、地區"; ObjectID = "nyN-2i-xCs"; */
+"nyN-2i-xCs.placeholder" = "搜寻国家、地区";
+
+/* Class = "UINavigationItem"; title = "電話國碼"; ObjectID = "oqH-Hf-nBX"; */
+"oqH-Hf-nBX.title" = "选择电话国码";
+
+/* Class = "UILabel"; text = "查無搜尋結果"; ObjectID = "p7Y-6S-1vM"; */
+"p7Y-6S-1vM.text" = "查无结果";

@@ -1,0 +1,81 @@
+
+/* Class = "UILabel"; text = "場次"; ObjectID = "34p-ka-uPC"; */
+"34p-ka-uPC.text" = "เวลา";
+
+/* Class = "UILabel"; text = "填寫行程資料"; ObjectID = "3rp-96-gjI"; */
+"3rp-96-gjI.text" = "ระบุข้อมูลแผนการเดินทางของคุณ";
+
+/* Class = "UINavigationItem"; title = "訂購確認"; ObjectID = "91V-yF-qee"; */
+"91V-yF-qee.title" = "ยืนยันรายการ";
+
+/* Class = "UITextField"; placeholder = "請選擇國籍"; ObjectID = "Bba-34-CGP"; */
+"Bba-34-CGP.placeholder" = "สัญชาติ";
+
+/* Class = "UITextField"; placeholder = "請選擇電話國碼"; ObjectID = "CyM-bY-kQW"; */
+"CyM-bY-kQW.placeholder" = "รหัสประเทศ";
+
+/* Class = "UILabel"; text = "未填寫"; ObjectID = "Dfg-X3-54c"; */
+"Dfg-X3-54c.text" = "ไม่สำเร็จ";
+
+/* Class = "UITextField"; placeholder = "請輸入名字"; ObjectID = "Dge-Og-zhg"; */
+"Dge-Og-zhg.placeholder" = "กรุณาระบุชื่อ";
+
+/* Class = "UILabel"; text = "數量"; ObjectID = "GEG-6M-5ex"; */
+"GEG-6M-5ex.text" = "จำนวนผู้เดินทาง";
+
+/* Class = "UITextField"; placeholder = "請輸入電話號碼"; ObjectID = "GNi-YN-aZF"; */
+"GNi-YN-aZF.placeholder" = "กรุณาระบุหมายเลขโทรศัพท์";
+
+/* Class = "UILabel"; text = "ApplePay"; ObjectID = "NOi-MJ-BOy"; */
+"NOi-MJ-BOy.text" = "ApplePay";
+
+/* Class = "UILabel"; text = "使用日"; ObjectID = "Xm2-Hf-CN6"; */
+"Xm2-Hf-CN6.text" = "วันเดินทาง";
+
+/* Class = "UILabel"; text = "電話號碼"; ObjectID = "YaS-7b-UL0"; */
+"YaS-7b-UL0.text" = "หมายเลขโทรศัพท์";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ZYC-IB-bT0"; */
+"ZYC-IB-bT0.text" = "อีเมล";
+
+/* Class = "UILabel"; text = "PayPal"; ObjectID = "bAk-LS-vnE"; */
+"bAk-LS-vnE.text" = "PayPal";
+
+/* Class = "UIButton"; normalTitle = "付款"; ObjectID = "bMz-jA-JF1"; */
+"bMz-jA-JF1.normalTitle" = "ชำระเงิน";
+
+/* Class = "UILabel"; text = "折扣金額"; ObjectID = "c8W-hS-Xy0"; */
+"c8W-hS-Xy0.text" = "ส่วนลดจำนวน";
+
+/* Class = "UILabel"; text = "支付宝"; ObjectID = "diR-Zw-mHB"; */
+"diR-Zw-mHB.text" = "支付宝";
+
+/* Class = "UITextField"; placeholder = "輸入折扣券代碼"; ObjectID = "emm-Hi-njn"; */
+"emm-Hi-njn.placeholder" = "โค้ดลดราคา";
+
+/* Class = "UITextField"; placeholder = "請輸入姓氏"; ObjectID = "f3j-WI-8cG"; */
+"f3j-WI-8cG.placeholder" = "กรุณาระบุนามสกุล";
+
+/* Class = "UILabel"; text = "電話國碼"; ObjectID = "jq8-NA-AST"; */
+"jq8-NA-AST.text" = "หมายเลขประจำตัวประชาชน";
+
+/* Class = "UILabel"; text = "使用折扣券"; ObjectID = "kT5-Mi-SSu"; */
+"kT5-Mi-SSu.text" = "ใช้คูปองโค้ด";
+
+/* Class = "UITextField"; placeholder = "請輸入Email"; ObjectID = "kag-4g-cOy"; */
+"kag-4g-cOy.placeholder" = "กรุณาระบุที่อยู่อีเมล";
+
+/* Class = "UILabel"; text = "姓氏"; ObjectID = "lgu-w0-DmM"; */
+"lgu-w0-DmM.text" = "ชื่อ";
+
+/* Class = "UILabel"; text = "總金額"; ObjectID = "sEv-vg-V8s"; */
+"sEv-vg-V8s.text" = "ราคารวมทั้งสิ้น";
+
+/* Class = "UILabel"; text = "名字"; ObjectID = "thc-bQ-DMk"; */
+"thc-bQ-DMk.text" = "ชื่อ";
+
+/* Class = "UILabel"; text = "國籍"; ObjectID = "thu-bq-nA6"; */
+"thu-bq-nA6.text" = "สัญชาติ";
+
+/* Class = "UILabel"; text = "信用卡"; ObjectID = "uKP-Pb-Soc"; */
+"uKP-Pb-Soc.text" = "บัตรเครดิต";

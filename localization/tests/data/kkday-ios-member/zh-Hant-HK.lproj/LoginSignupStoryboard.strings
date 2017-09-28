@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "密碼需為6 - 20位，至少包含一個字母與數字"; ObjectID = "1ze-CQ-14A"; */
+"1ze-CQ-14A.text" = "密碼需為6-100字";
+
+/* Class = "UIButton"; normalTitle = "或者"; ObjectID = "B5I-z4-dpP"; */
+"B5I-z4-dpP.normalTitle" = "或";
+
+/* Class = "UIButton"; normalTitle = "登入"; ObjectID = "BHT-u9-Jbo"; */
+"BHT-u9-Jbo.normalTitle" = "登入";
+
+/* Class = "UILabel"; text = "電子信箱"; ObjectID = "NB3-Oj-2SD"; */
+"NB3-Oj-2SD.text" = "Email";
+
+/* Class = "UILabel"; text = "電子信箱"; ObjectID = "Qsm-GB-UgP"; */
+"Qsm-GB-UgP.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "註冊"; ObjectID = "ZrA-G5-sWs"; */
+"ZrA-G5-sWs.normalTitle" = "註冊";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "saE-CF-EPS"; */
+"saE-CF-EPS.text" = "密碼";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "uaf-1q-2dZ"; */
+"uaf-1q-2dZ.text" = "密碼";

@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "查無搜尋結果"; ObjectID = "8pg-gS-Krm"; */
+"8pg-gS-Krm.text" = "검색 결과 없음";
+
+/* Class = "UINavigationItem"; title = "國籍"; ObjectID = "ZPu-c0-E33"; */
+"ZPu-c0-E33.title" = "국적";
+
+/* Class = "UISearchBar"; placeholder = "搜尋國家、地區"; ObjectID = "cMD-su-PHN"; */
+"cMD-su-PHN.placeholder" = "국가 & 도시 검색";

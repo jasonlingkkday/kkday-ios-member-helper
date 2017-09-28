@@ -8,6 +8,28 @@ class SpreadSheetEntry(object):
     def __init__(self):
         self.key = None
         self.values = dict()
+    
+    def __str__(self):
+        return str(self.__dict__)
+
+    def __eq__(self, other): 
+        return self.__dict__ == other.__dict__
+    
+    def to_json(self):
+        return {
+            "key": self.key,
+            "values": self.values
+        }
+    
+    def from_json(self, json_dict):
+        self.key = json_dict["key"]
+        self.values = json_dict["values"]
+    
+    @classmethod
+    def init_json(cls, json_dict):
+        entry = cls()
+        entry.from_json(json_dict)
+        return entry
 
 class SpreadSheetManager(object):
     def __init__(self):
@@ -28,9 +50,9 @@ class SpreadSheetManager(object):
             mapping[lang] = self.col_letter_to_index(col_letter)
         return mapping
     
-    def download_spreadsheet(self, scopes, secret_file, spreadsheet_id, range):
+    def download_spreadsheet(self, scopes, secret_file, spreadsheet_id, range_name):
         service = api.deal_with_auth_and_prepare_api_service(client_secret_file=secret_file, scopes=scopes)
-        rows = api.read_spreadsheet_values(service=service, spreadsheet_id=spreadsheet_id, range=range)
+        rows = api.read_spreadsheet_values(service=service, spreadsheet_id=spreadsheet_id, range=range_name)
         return rows
 
     def parse_spreadsheet(self, spreadsheet_rows, key_lang, lang_col_mapping):
@@ -49,11 +71,10 @@ class SpreadSheetManager(object):
         return entries
     
     def save_entries_to_disk(self, entries, filename):
-        write_as_json_file(data=entries, filename=filename)
+        data = [entry.to_json() for entry in entries]
+        write_as_json_file(data=data, filename=filename)
 
     def load_entries_from_disk(self, filename):
-        entries = load_json_file(filename=filename)
+        data = load_json_file(filename=filename)
+        entries = [SpreadSheetEntry.init_json(row) for row in data]
         return entries
-
-
-        
