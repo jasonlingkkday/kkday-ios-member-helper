@@ -1,1 +1,24 @@
-{"21吋以上": {"EN": {"app": "Luggage width is over 21", "sheet": "Luggage width is over 21\""}}, "未達最小訂購數量 %d": {"JP": {"app": "最小注文人数%d名", "sheet": "最小注文人数%s名"}, "CN": {"app": "訂購人數至少%d人", "sheet": "訂購人數至少%s人"}}, "提醒您": {"JP": {"app": null, "sheet": ""}}}
+{
+    "21吋以上": {
+        "EN": {
+            "app": "Luggage width is over 21",
+            "sheet": "Luggage width is over 21\""
+        }
+    },
+    "未達最小訂購數量 %d": {
+        "JP": {
+            "app": "最小注文人数%d名",
+            "sheet": "最小注文人数%s名"
+        },
+        "CN": {
+            "app": "訂購人數至少%d人",
+            "sheet": "訂購人數至少%s人"
+        }
+    },
+    "提醒您": {
+        "JP": {
+            "app": null,
+            "sheet": ""
+        }
+    }
+}

@@ -1,0 +1,1021 @@
+{
+    "diff": [
+        {
+            "diff": {
+                "THAI": {
+                    "app": "การเดินทางที่กำลังจะมาถึง",
+                    "sheet": "ประสบการณ์ท่ีรอคุณอยู่"
+                }
+            },
+            "key": "dzX-UU-cAA.normalTitle"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "抵境機場",
+                    "sheet": "抵達機場"
+                }
+            },
+            "key": "抵達機場"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Expiry Date",
+                    "sheet": "Expiry date"
+                }
+            },
+            "key": "su5-rs-djC.text"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Book Now",
+                    "sheet": "Book now"
+                }
+            },
+            "key": "i7x-O1-e2P.title"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "예약번호",
+                    "sheet": "호텔 예약번호"
+                },
+                "THAI": {
+                    "app": "หมายเลขการจอง",
+                    "sheet": "หมายเลขการจองห้องพัก"
+                }
+            },
+            "key": "訂房編號"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "예약 사이트",
+                    "sheet": "호텔 예약 사이트"
+                }
+            },
+            "key": "訂房網站"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "การรับประกันจาก KKday",
+                    "sheet": "การันตีจาก KKday"
+                }
+            },
+            "key": "aNy-4L-jmm.text"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "第二候補場次",
+                    "sheet": "第二順位"
+                }
+            },
+            "key": "第二候補場次"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "第一候補場次",
+                    "sheet": "第一順位"
+                }
+            },
+            "key": "第一候補場次"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "หมายเลขประจำตัวประชาชน (สำหรับชาวฮ่องกงและมาเก๊า)",
+                    "sheet": "หมายเลขประจำตัวประชาชน (สำหรับฮ่องกงและมาเก๊า)"
+                },
+                "JP": {
+                    "app": "香港・マカオ身分証番号",
+                    "sheet": "香港・マカオの身分証番号"
+                },
+                "CN": {
+                    "app": "港澳身分证字号",
+                    "sheet": "港澳身份证号码"
+                }
+            },
+            "key": "港澳身分證字號"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Number of Children Seats (Provided by Vendor)",
+                    "sheet": "Require Children's Seat"
+                }
+            },
+            "key": "需廠商提供之兒童座椅"
+        },
+        {
+            "diff": {
+                "CN": {
+                    "app": "我的",
+                    "sheet": "会员中心"
+                }
+            },
+            "key": "CAS-JD-gJZ.title"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Please Check Your Network Connection",
+                    "sheet": "Uh oh, it looks like you're offline"
+                }
+            },
+            "key": "沒有網路連線"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "離境航班",
+                    "sheet": "出發資訊"
+                },
+                "THAI": {
+                    "app": "เที่ยวบินขาออก",
+                    "sheet": "ข้อมูลขาออก"
+                },
+                "EN": {
+                    "app": "Departure Flight",
+                    "sheet": "depart information"
+                }
+            },
+            "key": "離開航班資料"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "일정 정보를 입력하세요.",
+                    "sheet": "일정정보를 작성해주세요."
+                },
+                "THAI": {
+                    "app": "ระบุข้อมูลแผนการเดินทางของคุณ",
+                    "sheet": "ใส่ข้อมูลแผนการท่องเที่ยวของคุณ"
+                },
+                "EN": {
+                    "app": "Click here to complete",
+                    "sheet": "Itinerary Information"
+                },
+                "JP": {
+                    "app": "スケジュール情報を入力",
+                    "sheet": "スケジュールを記入"
+                }
+            },
+            "key": "3rp-96-gjI.text"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "การคืนเงิน",
+                    "sheet": "จำนวนเงินคืน"
+                }
+            },
+            "key": "daj-dw-DkL.text"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "เส้นทาง",
+                    "sheet": "เส้นทางรถ"
+                },
+                "JP": {
+                    "app": "希望チャーター路線",
+                    "sheet": "チャーター希望路線"
+                }
+            },
+            "key": "包車路線"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Nationality",
+                    "sheet": "Select"
+                },
+                "CN": {
+                    "app": "选择国籍",
+                    "sheet": "请选择"
+                },
+                "HK": {
+                    "app": "國籍",
+                    "sheet": "請選擇"
+                },
+                "JP": {
+                    "app": "国籍を選んでください",
+                    "sheet": "国籍を選択してください"
+                },
+                "KR": {
+                    "app": "국적",
+                    "sheet": "선택"
+                },
+                "THAI": {
+                    "app": "สัญชาติ",
+                    "sheet": "เลือก"
+                }
+            },
+            "key": "Bba-34-CGP.placeholder"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "총 회원수",
+                    "sheet": "여행객"
+                },
+                "EN": {
+                    "app": "KKday Travelers",
+                    "sheet": "KKday travelers"
+                }
+            },
+            "key": "ugc-fi-OFF.text"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "チェックイン日時",
+                    "sheet": "ホテルチェックイン"
+                }
+            },
+            "key": "入住日期"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "Orders",
+                    "sheet": "예약"
+                }
+            },
+            "key": "JmF-jY-OaP.title"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "緊急聯絡人",
+                    "sheet": "旅遊期間聯絡人"
+                },
+                "THAI": {
+                    "app": "เบอร์ติดต่อกรณีฉุกเฉิน",
+                    "sheet": "ติดต่อกรณีฉุกเฉิน"
+                },
+                "JP": {
+                    "app": "旅行中連絡人",
+                    "sheet": "旅行中連絡先"
+                },
+                "KR": {
+                    "app": "여행동안 대표자 정보",
+                    "sheet": "여행자 비상 연락망"
+                }
+            },
+            "key": "旅遊期間聯絡人"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "My Account",
+                    "sheet": "My account"
+                }
+            },
+            "key": "w4y-fa-Hwx.title"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "是否需要辦理簽證？",
+                    "sheet": "是否需要辦理簽證?"
+                },
+                "KR": {
+                    "app": "여행지의 비자가 필요하신가요?",
+                    "sheet": "도착지의 비자가 필요하신가요?"
+                }
+            },
+            "key": "是否辦理落地簽"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "第一候補場次",
+                    "sheet": "第三順位"
+                }
+            },
+            "key": "第三候補場次"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "ค่าสายตา(สั้น,ยาว)",
+                    "sheet": "ค่าสายตา"
+                }
+            },
+            "key": "眼鏡度數"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "Search",
+                    "sheet": "검색"
+                }
+            },
+            "key": "Ore-ar-4K2.title"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "ข้อมูลการชำระเงิน",
+                    "sheet": "สรุปการชำระเงิน"
+                }
+            },
+            "key": "JtK-PP-fm9.title"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "จำนวนกระเป๋าถือ",
+                    "sheet": "จำนวนกระเป๋าเดินทาง"
+                }
+            },
+            "key": "手提行李數量"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Cancellation date",
+                    "sheet": "Cancellation Date"
+                }
+            },
+            "key": "Cancellation before Travel Date"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "หมายเลขประจำตัวประชาชน",
+                    "sheet": "รหัสประเทศ"
+                },
+                "EN": {
+                    "app": "Country code",
+                    "sheet": "Country Code"
+                }
+            },
+            "key": "電話國碼"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Use Coupons",
+                    "sheet": "Apply promo code"
+                }
+            },
+            "key": "kT5-Mi-SSu.text"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "例：Chen",
+                    "sheet": "例：Chan"
+                }
+            },
+            "key": "例：Chen"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "สรุปใบสั่งซื้อ",
+                    "sheet": "สรุปรายการสั่งซื้อ"
+                }
+            },
+            "key": "4YV-6d-pgZ.text"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "이메일",
+                    "sheet": "이메일을 입력하세요."
+                },
+                "THAI": {
+                    "app": "กรุณาระบุที่อยู่อีเมล",
+                    "sheet": "กรุณาระบุอีเมลของคุณ"
+                },
+                "EN": {
+                    "app": "Email",
+                    "sheet": "Please enter an email address"
+                },
+                "JP": {
+                    "app": "メールアドレスを入力",
+                    "sheet": "メールアドレスを入力してください"
+                },
+                "CN": {
+                    "app": "请输入 Email",
+                    "sheet": "请输入Email"
+                }
+            },
+            "key": "kag-4g-cOy.placeholder"
+        },
+        {
+            "diff": {
+                "CN": {
+                    "app": "饭店名称",
+                    "sheet": "酒店名称"
+                }
+            },
+            "key": "飯店名稱"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Traveler requirements",
+                    "sheet": "Important Booking Information"
+                }
+            },
+            "key": "注意事項"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "配送先電話番号",
+                    "sheet": "配送先の電話番号"
+                }
+            },
+            "key": "收件人電話"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "여행자 신발 사이즈",
+                    "sheet": "참가자 신발 사이즈"
+                },
+                "JP": {
+                    "app": "靴サイズ",
+                    "sheet": "靴のサイズ"
+                }
+            },
+            "key": "旅客鞋碼"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Last Name",
+                    "sheet": "Last name"
+                }
+            },
+            "key": "f3j-WI-8cG.placeholder"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "評価",
+                    "sheet": "レビュー"
+                }
+            },
+            "key": "AEK-YJ-p9W.text"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Contact Us",
+                    "sheet": "Contact us"
+                }
+            },
+            "key": "McA-ER-rvQ.title"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "ชื่อ",
+                    "sheet": "นามสกุล"
+                },
+                "EN": {
+                    "app": "Last Name",
+                    "sheet": "Last name"
+                }
+            },
+            "key": "lgu-w0-DmM.text"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "일정표",
+                    "sheet": "액티비티"
+                }
+            },
+            "key": "DDV-5T-Jgi.title"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "투어소개",
+                    "sheet": "액티비티"
+                },
+                "THAI": {
+                    "app": "ภาพรวม",
+                    "sheet": "ข้อมูลทั่วไป"
+                },
+                "JP": {
+                    "app": "スケジュール",
+                    "sheet": "コース紹介"
+                }
+            },
+            "key": "CHw-s0-rQR.text"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "取消手續費",
+                    "sheet": "取消費用"
+                },
+                "THAI": {
+                    "app": "ค่าธรรมเนียมยกเลิกการจอง",
+                    "sheet": "ค่าธรรมเนียมการยกเลิก"
+                },
+                "EN": {
+                    "app": "Cancellation fee",
+                    "sheet": "Cancellation Fee"
+                },
+                "KR": {
+                    "app": "취소 요금",
+                    "sheet": "취소요금"
+                }
+            },
+            "key": "取消費用"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "1 백만",
+                    "sheet": "1백만"
+                }
+            },
+            "key": "pjk-zp-jKw.text"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "픽업날짜",
+                    "sheet": "연결 날짜"
+                },
+                "EN": {
+                    "app": "Date of Pick-up",
+                    "sheet": "Shuttle Date"
+                }
+            },
+            "key": "接送日期"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Read More",
+                    "sheet": "Read more"
+                }
+            },
+            "key": "nfE-bq-gQb.normalTitle"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Credit Card",
+                    "sheet": "Credit card"
+                }
+            },
+            "key": "uKP-Pb-Soc.text"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "หมายเลขเที่ยวบิน",
+                    "sheet": "ประเภทเที่ยวบิน"
+                }
+            },
+            "key": "航班編號"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Phone Number",
+                    "sheet": "Phone number"
+                }
+            },
+            "key": "YaS-7b-UL0.text"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "여행 대표자",
+                    "sheet": "대표자"
+                },
+                "EN": {
+                    "app": "Traveler's Representative",
+                    "sheet": "Traveler Representative"
+                },
+                "CN": {
+                    "app": "旅客代表人",
+                    "sheet": "旅客代表"
+                }
+            },
+            "key": "旅客代表人"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "客運大樓",
+                    "sheet": "航廈"
+                },
+                "THAI": {
+                    "app": "หมาเลขอาคารผู้โดยสาร",
+                    "sheet": "อาคารผู้โดยสาร"
+                },
+                "KR": {
+                    "app": "터미널명",
+                    "sheet": "터미널"
+                }
+            },
+            "key": "航廈"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Name (as shown on Passport)",
+                    "sheet": "Name (as shown on passport)"
+                }
+            },
+            "key": "Dge-Og-zhg.placeholder"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "APP Contact Information",
+                    "sheet": "Can be reached through messaging APP"
+                },
+                "CN": {
+                    "app": "通讯软件联络方式",
+                    "sheet": "是否可透过通讯软件联络"
+                },
+                "HK": {
+                    "app": "通訊軟件聯絡方式",
+                    "sheet": "是否可透過通訊軟件聯絡"
+                },
+                "JP": {
+                    "app": "通信アプリの連絡先",
+                    "sheet": "通信アプリで連絡させていただいてもよろしいでしょうか。"
+                },
+                "KR": {
+                    "app": "연락 가능한 APP (카카오톡, 라인 등)",
+                    "sheet": "앱을 통해 즉시 연락 가능"
+                },
+                "THAI": {
+                    "app": "ข้อมูลติดต่อของ App",
+                    "sheet": "สามารถเข้าถึงการตอบข้อความแบบอัตโนมัติ"
+                }
+            },
+            "key": "APP聯絡方式"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "No results were found, let's try again :)",
+                    "sheet": "Aw snap! Didn't find anything matching that search criteria... try searching for something else or browse through the categories ;)"
+                }
+            },
+            "key": "8pg-gS-Krm.text"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Order Confirmation",
+                    "sheet": "Order confirmation"
+                }
+            },
+            "key": "91V-yF-qee.title"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "짐 개수",
+                    "sheet": "짐개수"
+                }
+            },
+            "key": "行李數量"
+        },
+        {
+            "diff": {
+                "THAI": {
+                    "app": "หมายเลข MTP",
+                    "sheet": "MTP number"
+                }
+            },
+            "key": "台胞證字號"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "配送先住所",
+                    "sheet": "配送先の住所"
+                }
+            },
+            "key": "收件人地址"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "台灣身分證號碼",
+                    "sheet": "台灣身分證字號"
+                }
+            },
+            "key": "台灣身分證字號"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "配送の詳細",
+                    "sheet": "発送情報"
+                }
+            },
+            "key": "寄送資料"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "Home",
+                    "sheet": "홈"
+                }
+            },
+            "key": "FIP-1R-48P.title"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Card Number",
+                    "sheet": "Card number"
+                }
+            },
+            "key": "HEn-wb-itJ.text"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Number of Baby's Seat (Provided by Vendor)",
+                    "sheet": "Require Baby's Seat"
+                }
+            },
+            "key": "需廠商提供之嬰兒座椅"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "SNSで登録",
+                    "sheet": "SNSアカウントを利用して登録"
+                }
+            },
+            "key": "使用第三方帳戶登入"
+        },
+        {
+            "diff": {
+                "CN": {
+                    "app": "航班到达日期及时间",
+                    "sheet": "航班出发日期及时间"
+                }
+            },
+            "key": "航班出發日期及時間"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "아이디를 입력하세요.",
+                    "sheet": "아이디를 입력하세요"
+                },
+                "THAI": {
+                    "app": "บัญชีของแอพพลิเคชั่น",
+                    "sheet": "บัญชีของแอพ"
+                }
+            },
+            "key": "APP帳號"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Popular Experiences Nearby",
+                    "sheet": "Popular nearby"
+                }
+            },
+            "key": "9AJ-Dy-D6a.text"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Payment Success ",
+                    "sheet": "Payment Success"
+                }
+            },
+            "key": "9uH-dG-3UI.text"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "キャンセル対応時間は商品を提供する地域の現地時間に準じます",
+                    "sheet": "キャンセル対応時間は商品を提供する地域の現地時間に準じます。"
+                }
+            },
+            "key": "取消時間依照商品時區決定"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Phone Number",
+                    "sheet": "Phone number"
+                },
+                "CN": {
+                    "app": "输入电话号码",
+                    "sheet": "请输入电话号码"
+                }
+            },
+            "key": "GNi-YN-aZF.placeholder"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "宿泊情報",
+                    "sheet": "予約情報"
+                },
+                "CN": {
+                    "app": "订房资讯",
+                    "sheet": "订房资料"
+                }
+            },
+            "key": "訂房資訊"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "참가자 체중",
+                    "sheet": "여행자 체중"
+                }
+            },
+            "key": "旅客體重"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "送迎の詳細",
+                    "sheet": "送迎資料"
+                }
+            },
+            "key": "接送資料"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "退款明細",
+                    "sheet": "退款資料"
+                }
+            },
+            "key": "You-6L-LhL.title"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Log In",
+                    "sheet": "Log in"
+                }
+            },
+            "key": "BHT-u9-Jbo.normalTitle"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "離境機場",
+                    "sheet": "出發機場"
+                },
+                "THAI": {
+                    "app": "สนามบินปลายทาง",
+                    "sheet": "สนามบินขาออก"
+                }
+            },
+            "key": "出發機場"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "시간 선택 ",
+                    "sheet": "시간 선택"
+                },
+                "EN": {
+                    "app": "Select Time",
+                    "sheet": "Select time"
+                },
+                "JP": {
+                    "app": "時間帯選択",
+                    "sheet": "時間帯を選択ください"
+                }
+            },
+            "key": "7JS-V5-7Q5.title"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "픽업시간",
+                    "sheet": "연결 시간"
+                },
+                "EN": {
+                    "app": "Pick up time",
+                    "sheet": "Shuttle Time"
+                }
+            },
+            "key": "接送時間"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "チェックアウト日を選んでください",
+                    "sheet": "チェックアウト日"
+                }
+            },
+            "key": "退房日期"
+        },
+        {
+            "diff": {
+                "JP": {
+                    "app": "既に出発しています",
+                    "sheet": "出発済"
+                }
+            },
+            "key": "dpP-wW-BJf.normalTitle"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "First Name",
+                    "sheet": "First name"
+                }
+            },
+            "key": "thc-bQ-DMk.text"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "개통 날짜",
+                    "sheet": "개통날짜"
+                },
+                "THAI": {
+                    "app": "วันที่เปิดใช้อุปกรณ์",
+                    "sheet": "วันที่เปิดใช้เครื่อง"
+                }
+            },
+            "key": "開通日期"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "膳食",
+                    "sheet": "餐膳"
+                }
+            },
+            "key": "餐食"
+        },
+        {
+            "diff": {
+                "KR": {
+                    "app": "문의하기",
+                    "sheet": "고객센터"
+                },
+                "EN": {
+                    "app": "Contact Us",
+                    "sheet": "Contact Support"
+                }
+            },
+            "key": "yyR-fZ-oYk.normalTitle"
+        },
+        {
+            "diff": {
+                "HK": {
+                    "app": "收件人資訊",
+                    "sheet": "收件資料"
+                },
+                "THAI": {
+                    "app": "ข้อมูลผู้รับ",
+                    "sheet": "ข้อมูลใบเสร็จ"
+                },
+                "EN": {
+                    "app": "Receipt Information",
+                    "sheet": "Recipient Information"
+                },
+                "CN": {
+                    "app": "收件人资讯",
+                    "sheet": "收件资料"
+                },
+                "KR": {
+                    "app": "수령인 정보",
+                    "sheet": "수령자 졍보"
+                }
+            },
+            "key": "收件資訊"
+        },
+        {
+            "diff": {
+                "EN": {
+                    "app": "Trusted Services",
+                    "sheet": "Trusted services"
+                }
+            },
+            "key": "gRp-ma-rCu.text"
+        }
+    ]
+}

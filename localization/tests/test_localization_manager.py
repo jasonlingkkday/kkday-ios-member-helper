@@ -74,14 +74,22 @@ class LocalizationManagerTestSuite(unittest.TestCase):
                                                                       app_entries=app_localizable_entries + app_storyboard_entries, 
                                                                       mapping=mapping, 
                                                                       languages=languages)
-        self.manager.save_analyze_diff_to_disk(diff_entries=diff_entries, 
-                                               app_only_entries=app_only_entries, 
-                                               sheet_only_entries=sheet_only_entries, 
-                                               filename='tests/data/test_data_analyze_diff.json')
+        self.manager.save_analyze_diff_to_disk(diff_type='diff', result=diff_entries, filename='tests/data/test_data_analyze_diff.json')
+        self.manager.save_analyze_diff_to_disk(diff_type='app only', result=app_only_entries, filename='tests/data/test_data_analyze_app_only.json')
+        self.manager.save_analyze_diff_to_disk(diff_type='sheet only', result=sheet_only_entries, filename='tests/data/test_data_analyze_sheet_only.json')
         self.assertTrue(diff_entries)
-
     
-    
+    def test_apply_whitelist_to_anlyze_diff(self):
+        # load data
+        diff_entries = self.manager.load_analyze_diff_from_disk(diff_type='diff', filename='tests/data/test_data_analyze_diff.json')
+        languages = ["EN", "TW", "HK", "CN", "JP", "KR", "THAI"]
+        # apply white list
+        adjusted_diff_entries = self.manager.apply_whitelist_to_analyze_diff(whitelist_filename='tests/data/test_data_whitelist.json', 
+                                                                             diff_entries=diff_entries, 
+                                                                             languages=languages)
+        # save
+        self.manager.save_analyze_diff_to_disk(diff_type='diff', result=adjusted_diff_entries, filename='tests/data/test_data_whitelisted_analyze_diff.json')
+        self.assertTrue(adjusted_diff_entries)
 
 if __name__ == '__main__':
     unittest.main()

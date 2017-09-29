@@ -1,0 +1,93 @@
+{
+    "general": {
+        "trim_white_space": true
+    },
+    "specifics": {
+        "0pT-Ys-7zA.title": {
+            "THAI": {
+                "skip": true
+            }
+        },
+        "未達最小訂購數量 %d": {
+            "skip": true
+        },
+        "收件人地址": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "提醒您": {
+            "skip": true
+        },
+        "請輸入本國籍姓": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "請輸入護照號碼": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "如腳掌長低於19CM, 請選擇兒童鞋碼": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "乘客資料": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "21吋以上": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "收件人電話": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "請輸入IMEI": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "搜尋地點": {
+            "KR": {
+                "skip": true
+            }
+        },
+        "請輸入手機型號": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "KKday官網": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "請輸入本國籍名": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "旅客鞋碼": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "收件人姓名": {
+            "EN": {
+                "skip": true
+            }
+        },
+        "請輸入台灣身分證字號": {
+            "EN": {
+                "skip": true
+            }
+        }
+    }
+}
