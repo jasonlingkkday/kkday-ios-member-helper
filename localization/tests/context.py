@@ -2,6 +2,7 @@
 
 import sys
 import os
+from difflib import Differ
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import localization_helper
@@ -23,3 +24,13 @@ def remove_if_exist(filename):
     except OSError:
         print("remove_if_exist[os error]: "+ filename)
         pass
+
+
+# def two_file_is_same(filename1, filename2):
+
+#     with open(filename1) as f1, open(filename2) as f2:
+#         differ = Differ()
+
+#         for line in differ.compare(f1.readlines(), f2.readlines()):
+#             if line.startswith(" "):
+#                 print(line[2:], end="")

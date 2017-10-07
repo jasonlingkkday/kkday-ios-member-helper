@@ -92,6 +92,40 @@ class LocalizationManager(object):
             if diff_dict[key]:
                 whitelisted_diff_entries.append({'key':key, 'diff':diff })
         return whitelisted_diff_entries
+    
+    def create_action_plan(self, diff_entries, languages, filename):
+        plan = dict()
+        for entry in diff_entries:
+            key = entry["key"]
+            plan_detail = dict()
+            for lang in languages:
+                item = entry['diff'].get(lang)
+                if item:
+                    plan_detail[lang] = {
+                        "from": item["app"],
+                        "to": item["sheet"]
+                    }
+            plan[key] = plan_detail
+        write_as_json_file(data=plan, filename=filename)
+        return plan
+    
+    def load_action_plan(self, filename):
+        return load_json_file(filename=filename)
+    
+    def execute_action_plan(self, action_plan):
+        """
+        1. iterate target files (localizable strings or storyboard strings)
+            - for each file
+                - create a tmp file
+                - write each line in file to tmp file
+                    - whe line contain key from action plan
+                        - update the line with value from action plan
+            - rename the file with backup
+            - change tmp file to file name
+        """
+        
+
+        
 
 
 

@@ -21,3 +21,8 @@ def read_file(filename):
         for line in reader:
             lines.append(line)
     return lines
+
+def write_file(filename, lines):
+    with io.open(filename, mode='w', encoding='utf-8') as writer:
+        for line in lines:
+            writer.write(line)

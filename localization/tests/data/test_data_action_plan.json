@@ -1,0 +1,752 @@
+{
+    "dzX-UU-cAA.normalTitle": {
+        "THAI": {
+            "to": "ประสบการณ์ท่ีรอคุณอยู่",
+            "from": "การเดินทางที่กำลังจะมาถึง"
+        }
+    },
+    "抵達機場": {
+        "HK": {
+            "to": "抵達機場",
+            "from": "抵境機場"
+        }
+    },
+    "su5-rs-djC.text": {
+        "EN": {
+            "to": "Expiry date",
+            "from": "Expiry Date"
+        }
+    },
+    "i7x-O1-e2P.title": {
+        "EN": {
+            "to": "Book now",
+            "from": "Book Now"
+        }
+    },
+    "訂房編號": {
+        "KR": {
+            "to": "호텔 예약번호",
+            "from": "예약번호"
+        },
+        "THAI": {
+            "to": "หมายเลขการจองห้องพัก",
+            "from": "หมายเลขการจอง"
+        }
+    },
+    "訂房網站": {
+        "KR": {
+            "to": "호텔 예약 사이트",
+            "from": "예약 사이트"
+        }
+    },
+    "aNy-4L-jmm.text": {
+        "THAI": {
+            "to": "การันตีจาก KKday",
+            "from": "การรับประกันจาก KKday"
+        }
+    },
+    "第二候補場次": {
+        "HK": {
+            "to": "第二順位",
+            "from": "第二候補場次"
+        }
+    },
+    "旅客體重": {
+        "KR": {
+            "to": "여행자 체중",
+            "from": "참가자 체중"
+        }
+    },
+    "港澳身分證字號": {
+        "THAI": {
+            "to": "หมายเลขประจำตัวประชาชน (สำหรับฮ่องกงและมาเก๊า)",
+            "from": "หมายเลขประจำตัวประชาชน (สำหรับชาวฮ่องกงและมาเก๊า)"
+        },
+        "JP": {
+            "to": "香港・マカオの身分証番号",
+            "from": "香港・マカオ身分証番号"
+        },
+        "CN": {
+            "to": "港澳身份证号码",
+            "from": "港澳身分证字号"
+        }
+    },
+    "需廠商提供之兒童座椅": {
+        "EN": {
+            "to": "Require Children's Seat",
+            "from": "Number of Children Seats (Provided by Vendor)"
+        }
+    },
+    "CAS-JD-gJZ.title": {
+        "CN": {
+            "to": "会员中心",
+            "from": "我的"
+        }
+    },
+    "旅客代表人": {
+        "KR": {
+            "to": "대표자",
+            "from": "여행 대표자"
+        },
+        "EN": {
+            "to": "Traveler Representative",
+            "from": "Traveler's Representative"
+        },
+        "CN": {
+            "to": "旅客代表",
+            "from": "旅客代表人"
+        }
+    },
+    "離開航班資料": {
+        "HK": {
+            "to": "出發資訊",
+            "from": "離境航班"
+        },
+        "THAI": {
+            "to": "ข้อมูลขาออก",
+            "from": "เที่ยวบินขาออก"
+        },
+        "EN": {
+            "to": "depart information",
+            "from": "Departure Flight"
+        }
+    },
+    "3rp-96-gjI.text": {
+        "KR": {
+            "to": "일정정보를 작성해주세요.",
+            "from": "일정 정보를 입력하세요."
+        },
+        "THAI": {
+            "to": "ใส่ข้อมูลแผนการท่องเที่ยวของคุณ",
+            "from": "ระบุข้อมูลแผนการเดินทางของคุณ"
+        },
+        "EN": {
+            "to": "Itinerary Information",
+            "from": "Click here to complete"
+        },
+        "JP": {
+            "to": "スケジュールを記入",
+            "from": "スケジュール情報を入力"
+        }
+    },
+    "daj-dw-DkL.text": {
+        "THAI": {
+            "to": "จำนวนเงินคืน",
+            "from": "การคืนเงิน"
+        }
+    },
+    "訂房資訊": {
+        "JP": {
+            "to": "予約情報",
+            "from": "宿泊情報"
+        },
+        "CN": {
+            "to": "订房资料",
+            "from": "订房资讯"
+        }
+    },
+    "包車路線": {
+        "THAI": {
+            "to": "เส้นทางรถ",
+            "from": "เส้นทาง"
+        },
+        "JP": {
+            "to": "チャーター希望路線",
+            "from": "希望チャーター路線"
+        }
+    },
+    "例：Chen": {
+        "HK": {
+            "to": "例：Chan",
+            "from": "例：Chen"
+        }
+    },
+    "ugc-fi-OFF.text": {
+        "KR": {
+            "to": "여행객",
+            "from": "총 회원수"
+        },
+        "EN": {
+            "to": "KKday travelers",
+            "from": "KKday Travelers"
+        }
+    },
+    "入住日期": {
+        "JP": {
+            "to": "ホテルチェックイン",
+            "from": "チェックイン日時"
+        }
+    },
+    "JmF-jY-OaP.title": {
+        "KR": {
+            "to": "예약",
+            "from": "Orders"
+        }
+    },
+    "旅遊期間聯絡人": {
+        "HK": {
+            "to": "旅遊期間聯絡人",
+            "from": "緊急聯絡人"
+        },
+        "THAI": {
+            "to": "ติดต่อกรณีฉุกเฉิน",
+            "from": "เบอร์ติดต่อกรณีฉุกเฉิน"
+        },
+        "JP": {
+            "to": "旅行中連絡先",
+            "from": "旅行中連絡人"
+        },
+        "KR": {
+            "to": "여행자 비상 연락망",
+            "from": "여행동안 대표자 정보"
+        }
+    },
+    "w4y-fa-Hwx.title": {
+        "EN": {
+            "to": "My account",
+            "from": "My Account"
+        }
+    },
+    "是否辦理落地簽": {
+        "HK": {
+            "to": "是否需要辦理簽證?",
+            "from": "是否需要辦理簽證？"
+        },
+        "KR": {
+            "to": "도착지의 비자가 필요하신가요?",
+            "from": "여행지의 비자가 필요하신가요?"
+        }
+    },
+    "第三候補場次": {
+        "HK": {
+            "to": "第三順位",
+            "from": "第一候補場次"
+        }
+    },
+    "眼鏡度數": {
+        "THAI": {
+            "to": "ค่าสายตา",
+            "from": "ค่าสายตา(สั้น,ยาว)"
+        }
+    },
+    "Ore-ar-4K2.title": {
+        "KR": {
+            "to": "검색",
+            "from": "Search"
+        }
+    },
+    "JtK-PP-fm9.title": {
+        "THAI": {
+            "to": "สรุปการชำระเงิน",
+            "from": "ข้อมูลการชำระเงิน"
+        }
+    },
+    "手提行李數量": {
+        "THAI": {
+            "to": "จำนวนกระเป๋าเดินทาง",
+            "from": "จำนวนกระเป๋าถือ"
+        }
+    },
+    "Cancellation before Travel Date": {
+        "EN": {
+            "to": "Cancellation Date",
+            "from": "Cancellation date"
+        }
+    },
+    "電話國碼": {
+        "THAI": {
+            "to": "รหัสประเทศ",
+            "from": "หมายเลขประจำตัวประชาชน"
+        },
+        "EN": {
+            "to": "Country Code",
+            "from": "Country code"
+        }
+    },
+    "kT5-Mi-SSu.text": {
+        "EN": {
+            "to": "Apply promo code",
+            "from": "Use Coupons"
+        }
+    },
+    "Bba-34-CGP.placeholder": {
+        "EN": {
+            "to": "Select",
+            "from": "Nationality"
+        },
+        "CN": {
+            "to": "请选择",
+            "from": "选择国籍"
+        },
+        "KR": {
+            "to": "선택",
+            "from": "국적"
+        },
+        "JP": {
+            "to": "国籍を選択してください",
+            "from": "国籍を選んでください"
+        },
+        "HK": {
+            "to": "請選擇",
+            "from": "國籍"
+        },
+        "THAI": {
+            "to": "เลือก",
+            "from": "สัญชาติ"
+        }
+    },
+    "4YV-6d-pgZ.text": {
+        "THAI": {
+            "to": "สรุปรายการสั่งซื้อ",
+            "from": "สรุปใบสั่งซื้อ"
+        }
+    },
+    "kag-4g-cOy.placeholder": {
+        "KR": {
+            "to": "이메일을 입력하세요.",
+            "from": "이메일"
+        },
+        "THAI": {
+            "to": "กรุณาระบุอีเมลของคุณ",
+            "from": "กรุณาระบุที่อยู่อีเมล"
+        },
+        "EN": {
+            "to": "Please enter an email address",
+            "from": "Email"
+        },
+        "JP": {
+            "to": "メールアドレスを入力してください",
+            "from": "メールアドレスを入力"
+        },
+        "CN": {
+            "to": "请输入Email",
+            "from": "请输入 Email"
+        }
+    },
+    "飯店名稱": {
+        "CN": {
+            "to": "酒店名称",
+            "from": "饭店名称"
+        }
+    },
+    "注意事項": {
+        "EN": {
+            "to": "Important Booking Information",
+            "from": "Traveler requirements"
+        }
+    },
+    "收件人電話": {
+        "JP": {
+            "to": "配送先の電話番号",
+            "from": "配送先電話番号"
+        }
+    },
+    "旅客鞋碼": {
+        "KR": {
+            "to": "참가자 신발 사이즈",
+            "from": "여행자 신발 사이즈"
+        },
+        "JP": {
+            "to": "靴のサイズ",
+            "from": "靴サイズ"
+        }
+    },
+    "YaS-7b-UL0.text": {
+        "EN": {
+            "to": "Phone number",
+            "from": "Phone Number"
+        }
+    },
+    "f3j-WI-8cG.placeholder": {
+        "EN": {
+            "to": "Last name",
+            "from": "Last Name"
+        }
+    },
+    "AEK-YJ-p9W.text": {
+        "JP": {
+            "to": "レビュー",
+            "from": "評価"
+        }
+    },
+    "McA-ER-rvQ.title": {
+        "EN": {
+            "to": "Contact us",
+            "from": "Contact Us"
+        }
+    },
+    "lgu-w0-DmM.text": {
+        "THAI": {
+            "to": "นามสกุล",
+            "from": "ชื่อ"
+        },
+        "EN": {
+            "to": "Last name",
+            "from": "Last Name"
+        }
+    },
+    "DDV-5T-Jgi.title": {
+        "KR": {
+            "to": "액티비티",
+            "from": "일정표"
+        }
+    },
+    "CHw-s0-rQR.text": {
+        "KR": {
+            "to": "액티비티",
+            "from": "투어소개"
+        },
+        "THAI": {
+            "to": "ข้อมูลทั่วไป",
+            "from": "ภาพรวม"
+        },
+        "JP": {
+            "to": "コース紹介",
+            "from": "スケジュール"
+        }
+    },
+    "取消費用": {
+        "HK": {
+            "to": "取消費用",
+            "from": "取消手續費"
+        },
+        "THAI": {
+            "to": "ค่าธรรมเนียมการยกเลิก",
+            "from": "ค่าธรรมเนียมยกเลิกการจอง"
+        },
+        "EN": {
+            "to": "Cancellation Fee",
+            "from": "Cancellation fee"
+        },
+        "KR": {
+            "to": "취소요금",
+            "from": "취소 요금"
+        }
+    },
+    "gRp-ma-rCu.text": {
+        "EN": {
+            "to": "Trusted services",
+            "from": "Trusted Services"
+        }
+    },
+    "pjk-zp-jKw.text": {
+        "KR": {
+            "to": "1백만",
+            "from": "1 백만"
+        }
+    },
+    "接送日期": {
+        "KR": {
+            "to": "연결 날짜",
+            "from": "픽업날짜"
+        },
+        "EN": {
+            "to": "Shuttle Date",
+            "from": "Date of Pick-up"
+        }
+    },
+    "nfE-bq-gQb.normalTitle": {
+        "EN": {
+            "to": "Read more",
+            "from": "Read More"
+        }
+    },
+    "uKP-Pb-Soc.text": {
+        "EN": {
+            "to": "Credit card",
+            "from": "Credit Card"
+        }
+    },
+    "航班編號": {
+        "THAI": {
+            "to": "ประเภทเที่ยวบิน",
+            "from": "หมายเลขเที่ยวบิน"
+        }
+    },
+    "沒有網路連線": {
+        "EN": {
+            "to": "Uh oh, it looks like you're offline",
+            "from": "Please Check Your Network Connection"
+        }
+    },
+    "航廈": {
+        "HK": {
+            "to": "航廈",
+            "from": "客運大樓"
+        },
+        "THAI": {
+            "to": "อาคารผู้โดยสาร",
+            "from": "หมาเลขอาคารผู้โดยสาร"
+        },
+        "KR": {
+            "to": "터미널",
+            "from": "터미널명"
+        }
+    },
+    "Dge-Og-zhg.placeholder": {
+        "EN": {
+            "to": "Name (as shown on passport)",
+            "from": "Name (as shown on Passport)"
+        }
+    },
+    "APP聯絡方式": {
+        "EN": {
+            "to": "Can be reached through messaging APP",
+            "from": "APP Contact Information"
+        },
+        "CN": {
+            "to": "是否可透过通讯软件联络",
+            "from": "通讯软件联络方式"
+        },
+        "KR": {
+            "to": "앱을 통해 즉시 연락 가능",
+            "from": "연락 가능한 APP (카카오톡, 라인 등)"
+        },
+        "JP": {
+            "to": "通信アプリで連絡させていただいてもよろしいでしょうか。",
+            "from": "通信アプリの連絡先"
+        },
+        "HK": {
+            "to": "是否可透過通訊軟件聯絡",
+            "from": "通訊軟件聯絡方式"
+        },
+        "THAI": {
+            "to": "สามารถเข้าถึงการตอบข้อความแบบอัตโนมัติ",
+            "from": "ข้อมูลติดต่อของ App"
+        }
+    },
+    "8pg-gS-Krm.text": {
+        "EN": {
+            "to": "Aw snap! Didn't find anything matching that search criteria... try searching for something else or browse through the categories ;)",
+            "from": "No results were found, let's try again :)"
+        }
+    },
+    "91V-yF-qee.title": {
+        "EN": {
+            "to": "Order confirmation",
+            "from": "Order Confirmation"
+        }
+    },
+    "行李數量": {
+        "KR": {
+            "to": "짐개수",
+            "from": "짐 개수"
+        }
+    },
+    "台胞證字號": {
+        "THAI": {
+            "to": "MTP number",
+            "from": "หมายเลข MTP"
+        }
+    },
+    "收件人地址": {
+        "JP": {
+            "to": "配送先の住所",
+            "from": "配送先住所"
+        }
+    },
+    "台灣身分證字號": {
+        "HK": {
+            "to": "台灣身分證字號",
+            "from": "台灣身分證號碼"
+        }
+    },
+    "寄送資料": {
+        "JP": {
+            "to": "発送情報",
+            "from": "配送の詳細"
+        }
+    },
+    "FIP-1R-48P.title": {
+        "KR": {
+            "to": "홈",
+            "from": "Home"
+        }
+    },
+    "HEn-wb-itJ.text": {
+        "EN": {
+            "to": "Card number",
+            "from": "Card Number"
+        }
+    },
+    "需廠商提供之嬰兒座椅": {
+        "EN": {
+            "to": "Require Baby's Seat",
+            "from": "Number of Baby's Seat (Provided by Vendor)"
+        }
+    },
+    "使用第三方帳戶登入": {
+        "JP": {
+            "to": "SNSアカウントを利用して登録",
+            "from": "SNSで登録"
+        }
+    },
+    "航班出發日期及時間": {
+        "CN": {
+            "to": "航班出发日期及时间",
+            "from": "航班到达日期及时间"
+        }
+    },
+    "APP帳號": {
+        "KR": {
+            "to": "아이디를 입력하세요",
+            "from": "아이디를 입력하세요."
+        },
+        "THAI": {
+            "to": "บัญชีของแอพ",
+            "from": "บัญชีของแอพพลิเคชั่น"
+        }
+    },
+    "9AJ-Dy-D6a.text": {
+        "EN": {
+            "to": "Popular nearby",
+            "from": "Popular Experiences Nearby"
+        }
+    },
+    "7JS-V5-7Q5.title": {
+        "KR": {
+            "to": "시간 선택",
+            "from": "시간 선택 "
+        },
+        "EN": {
+            "to": "Select time",
+            "from": "Select Time"
+        },
+        "JP": {
+            "to": "時間帯を選択ください",
+            "from": "時間帯選択"
+        }
+    },
+    "9uH-dG-3UI.text": {
+        "EN": {
+            "to": "Payment Success",
+            "from": "Payment Success "
+        }
+    },
+    "取消時間依照商品時區決定": {
+        "JP": {
+            "to": "キャンセル対応時間は商品を提供する地域の現地時間に準じます。",
+            "from": "キャンセル対応時間は商品を提供する地域の現地時間に準じます"
+        }
+    },
+    "GNi-YN-aZF.placeholder": {
+        "EN": {
+            "to": "Phone number",
+            "from": "Phone Number"
+        },
+        "CN": {
+            "to": "请输入电话号码",
+            "from": "输入电话号码"
+        }
+    },
+    "第一候補場次": {
+        "HK": {
+            "to": "第一順位",
+            "from": "第一候補場次"
+        }
+    },
+    "接送資料": {
+        "JP": {
+            "to": "送迎資料",
+            "from": "送迎の詳細"
+        }
+    },
+    "You-6L-LhL.title": {
+        "HK": {
+            "to": "退款資料",
+            "from": "退款明細"
+        }
+    },
+    "BHT-u9-Jbo.normalTitle": {
+        "EN": {
+            "to": "Log in",
+            "from": "Log In"
+        }
+    },
+    "出發機場": {
+        "HK": {
+            "to": "出發機場",
+            "from": "離境機場"
+        },
+        "THAI": {
+            "to": "สนามบินขาออก",
+            "from": "สนามบินปลายทาง"
+        }
+    },
+    "接送時間": {
+        "KR": {
+            "to": "연결 시간",
+            "from": "픽업시간"
+        },
+        "EN": {
+            "to": "Shuttle Time",
+            "from": "Pick up time"
+        }
+    },
+    "退房日期": {
+        "JP": {
+            "to": "チェックアウト日",
+            "from": "チェックアウト日を選んでください"
+        }
+    },
+    "thc-bQ-DMk.text": {
+        "EN": {
+            "to": "First name",
+            "from": "First Name"
+        }
+    },
+    "開通日期": {
+        "KR": {
+            "to": "개통날짜",
+            "from": "개통 날짜"
+        },
+        "THAI": {
+            "to": "วันที่เปิดใช้เครื่อง",
+            "from": "วันที่เปิดใช้อุปกรณ์"
+        }
+    },
+    "餐食": {
+        "HK": {
+            "to": "餐膳",
+            "from": "膳食"
+        }
+    },
+    "yyR-fZ-oYk.normalTitle": {
+        "KR": {
+            "to": "고객센터",
+            "from": "문의하기"
+        },
+        "EN": {
+            "to": "Contact Support",
+            "from": "Contact Us"
+        }
+    },
+    "dpP-wW-BJf.normalTitle": {
+        "JP": {
+            "to": "出発済",
+            "from": "既に出発しています"
+        }
+    },
+    "收件資訊": {
+        "HK": {
+            "to": "收件資料",
+            "from": "收件人資訊"
+        },
+        "THAI": {
+            "to": "ข้อมูลใบเสร็จ",
+            "from": "ข้อมูลผู้รับ"
+        },
+        "EN": {
+            "to": "Recipient Information",
+            "from": "Receipt Information"
+        },
+        "CN": {
+            "to": "收件资料",
+            "from": "收件人资讯"
+        },
+        "KR": {
+            "to": "수령자 졍보",
+            "from": "수령인 정보"
+        }
+    }
+}

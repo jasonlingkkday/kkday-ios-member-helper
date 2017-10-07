@@ -90,6 +90,13 @@ class LocalizationManagerTestSuite(unittest.TestCase):
         # save
         self.manager.save_analyze_diff_to_disk(diff_type='diff', result=adjusted_diff_entries, filename='tests/data/test_data_whitelisted_analyze_diff.json')
         self.assertTrue(adjusted_diff_entries)
+    
+    def test_create_action_plan(self):
+        # load data
+        diff_entries = self.manager.load_analyze_diff_from_disk(diff_type='diff', filename='tests/data/test_data_whitelisted_analyze_diff.json')
+        languages = ["EN", "TW", "HK", "CN", "JP", "KR", "THAI"]
+        action_plan = self.manager.create_action_plan(diff_entries=diff_entries, languages=languages, filename='tests/data/test_data_action_plan.json')
+        self.assertTrue(action_plan)
 
 if __name__ == '__main__':
     unittest.main()
