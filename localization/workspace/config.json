@@ -5,20 +5,20 @@
             "scope": "https://www.googleapis.com/auth/spreadsheets.readonly",
             "secret": "client_secret.json"
         },
-        "spreadsheetId": "1LvdhIPABjW_zCMXyfXZiQbcYFPTYlmkb5K0KpXkRN9c",
-        "sheetName": "「Round2-all」new",
-        "startRow": 4,
-        "endRow": 800,
+        "spreadsheetId": "1_cPlmAvYx00RR06BPpOGi0cqCpVihFq11t7u2H0PesY",
+        "sheetName": "R3 all",
+        "startRow": 3,
+        "endRow": 700,
         "startCol": "A",
         "endCol": "R",
         "languageCols": {
-            "EN": "L",
-            "TW": "K",
-            "HK": "M",
-            "CN": "N",
-            "JP": "O",
-            "KR": "P",
-            "THAI": "Q"
+            "EN": "H",
+            "TW": "G",
+            "HK": "I",
+            "CN": "J",
+            "JP": "K",
+            "KR": "L",
+            "THAI": "M"
         },
         "keyLanguage": "TW"
     },
