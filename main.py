@@ -1,13 +1,16 @@
+import sys
+sys.path.insert(0, 'localization')
+
 import localization_helper
 
 def example_read_google_spreadsheet():
     # create spreadsheet_manager
     spreadsheet_manager = localization_helper.SpreadSheetManager()
     # load config file
-    config = localization_helper.Config(file_path='workspace/config.json')
+    config = localization_helper.Config(file_path='localization/workspace/config.json')
     # read parameters from config
     scopes = config.get("spreadsheet.google.scope")
-    secret_file = "workspace/" + config.get("spreadsheet.google.secret")
+    secret_file = "localization/workspace/" + config.get("spreadsheet.google.secret")
     spreadsheet_id = config.get("spreadsheet.spreadsheetId")
     range_name = spreadsheet_manager.create_range(sheet_name=config.get("spreadsheet.sheetName"), 
                                                   start_row=config.get("spreadsheet.startRow"), 
